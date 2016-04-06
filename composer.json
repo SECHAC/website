@@ -1,0 +1,10 @@
+{
+    "require": {
+        "mos/anax": "dev-master",
+        "mos/ctextfilter": "dev-master",
+        "geshi/geshi": "dev-master",
+        "mos/cimage": "@dev",
+        "mos/cform": "2.x-dev",
+        "ext-yaml": "*"
+    }
+}
