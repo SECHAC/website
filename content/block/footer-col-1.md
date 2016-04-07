@@ -1,3 +1,3 @@
-####CImage & img.php
+####GrillCon
 
-This is free and open source software for serverside resize, crop and process of images using PHP GD and utilizing caching on both server and client.
+GrillCon är ett event som sker i slutet av maj och tre veckor in i september. Det är en grillfest för programmet Webbprogrammering tillsammans med programvarutekniker, även känd som Software Engineering.

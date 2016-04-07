@@ -13,9 +13,15 @@ return [
     "items" => [
 
         "blog" => [
-            "text"  =>"Blog",
-            "url"   => $this->di->get("url")->create("blog"),
+            "text"  =>"Blogg",
+            "url"   => $this->di->get("url")->create("blogg"),
             "title" => "Developer blog",
+            "mark-if-parent" => true,
+        ],
+        "about" => [
+            "text"  =>"Om",
+            "url"   => $this->di->get("url")->create("om-grillcon"),
+            "title" => "Om GrillCon",
             "mark-if-parent" => true,
         ],
     ],

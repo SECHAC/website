@@ -26,7 +26,7 @@ views:
                 items: 4
 
 ---
-Development blog
+GrillCon Blogg
 ===========================
 
-Posts about development, documentation, articles on how to use CImage and info on image processing in general.
+Om GrillCon och relaterade event.

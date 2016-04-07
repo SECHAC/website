@@ -1,4 +1,4 @@
-####Troubleshoot
+####Bidra
 
-* [Gitter Chat](https://gitter.im/mosbth/cimage)
-* [GitHub Issues](https://github.com/mosbth/cimage/issues)
+* Gitter Chat
+* [GitHub Issues](https://github.com/dbwebb-se/grillcon/issues)

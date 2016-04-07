@@ -1,4 +1,3 @@
-####Download
+####Håll kontakten
 
-* [GitHub](https://github.com/mosbth/cimage)
-* [Packagist](https://packagist.org/packages/mos/cimage)
+* TBD
