@@ -181,7 +181,9 @@ create-local-structure:
 .PHONY: ssl-cert-create
 ssl-cert-create:
 	cd $(HOME)/git/letsencrypt
+	sudo service apache2 stop
 	./letsencrypt-auto certonly --standalone -d $(WWW_SITE) -d www.$(WWW_SITE)
+	sudo service apache2 start
 
 
 
