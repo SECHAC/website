@@ -15,9 +15,9 @@ Så här gick det till, en eftermiddag i april anno 2016.
 ```
 14:25 <@foiki> kanske läge att streama årets grill?  
 14:31 <@Olund> nja foiki                             
-< xt9> låter som en bra idé                    
+14:42 < xt9> låter som en bra idé                    
 14:42 < xt9> grillcon                                
-<@mos> defcon = grillcon                       
+14:49 <@mos> defcon = grillcon                       
 ```
 
 Vi kan alltså tillskriva xt9 att vara den som först myntade begreppet GrillCon. Stort.
@@ -28,7 +28,7 @@ Så här kommenterar xt9 denna händelse.
 15:03 < xt9> så jag mynta den asså
 15:03  * xt9 är stolt
 15:03 <@foiki> woho
-15:04 < pansar> iaf ser det så ut i MIN logg.
+15:04 <@pansar> iaf ser det så ut i MIN logg.
                 Men det är segraren som skriver
                 historian... 
 ```
