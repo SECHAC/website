@@ -1,7 +1,22 @@
+---
+author: mos
+created: 2016-04-13
+ 
+views:
+
+    flash:
+        region: flash
+        template: default/content
+        data:
+            meta:
+                type: content
+                route: block/licens-flash
+
+...
 Licens och Villkor
 ==============================================
 
-All information på denna webbplats är copyright av [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se).
+All information på denna webbplats är copyright av [Mikael Roos](https://mikaelroos.se) (mos@dbwebb.se) eller av den individ som bidragit med information.
 
 Denna webbplats får inte reproduceras i delar eller i helhet. Webbplatsen får inte göras tillgänglig för publik användning, i någon form.
 

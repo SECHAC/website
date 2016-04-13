@@ -18,7 +18,7 @@ return [
             "lang"          => "sv",
             "charset"       => "utf-8",
             "title_append"  => " | GrillCon",
-            "favicon"       => "img/favicon/favicon_128x128.png",
+            "favicon"       => "img/favicon/favicon_256_256.png",
 
             // Style and stylesheets
             "stylesheets" => ["css/style.min.css"],
@@ -53,7 +53,7 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
+                "src" => "img/favicon/favicon_256_256.png",
                 "alt" => "Logo",
             ],
             "sort" => -1
@@ -92,14 +92,13 @@ return [
             ],
             "sort" => 2
         ],
-        /*
         [
             "region" => "body-end",
             "template" => "default/google-analytics",
             "data" => [
-                "account" => "UA-75526006-1",
+                "account" => "UA-22093351-2",
             ],
             "sort" => -1
-        ],*/
+        ],
     ],
 ];

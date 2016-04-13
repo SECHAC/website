@@ -14,7 +14,8 @@ views:
         data:
             meta: 
                 type: toc
-                items: 4
+                items: 7
+                orderorder: desc
 
     blog-toc:
         region: sidebar-right
@@ -24,9 +25,10 @@ views:
             meta: 
                 type: toc
                 items: 4
+                orderorder: desc
 
----
+...
 GrillCon Blogg
 ===========================
 
-Om GrillCon och relaterade event.
+Om GrillCon och relaterat.

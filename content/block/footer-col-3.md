@@ -1,4 +1,4 @@
-####Bidra
+####Join the club
 
-* Gitter Chat
+* [irc.bsnet.se://#db-o-webb](http://dbwebb.se/irc)
 * [GitHub Issues](https://github.com/dbwebb-se/grillcon/issues)

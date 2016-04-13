@@ -18,6 +18,12 @@ return [
             "title" => "Developer blog",
             "mark-if-parent" => true,
         ],
+        "arkiv" => [
+            "text"  =>"Arkiv",
+            "url"   => $this->di->get("url")->create("arkiv"),
+            "title" => "GrillCon Arkiv",
+            "mark-if-parent" => true,
+        ],
         "about" => [
             "text"  =>"Om",
             "url"   => $this->di->get("url")->create("om-grillcon"),

@@ -17,6 +17,11 @@ ROBOTSTXT	 = robots.txt
 SSL_APACHE_CONF = /etc/letsencrypt/options-ssl-apache.conf
 SSL_PEM_BASE 	= /etc/letsencrypt/live/$(WWW_SITE)
 
+# Theme
+LESS 		 = theme/style_grillcon.less
+LESS_OPTIONS = --strict-imports --include-path=theme/mos-theme/style/
+FONT_AWESOME = theme/mos-theme/style/font-awesome/fonts/
+
 
 
 # target: help - Displays help.
@@ -110,10 +115,6 @@ less-update-clear: less local-publish-clear
 
 
 .PHONY: less
-
-LESS 			:= theme/style.less
-LESS_OPTIONS 	:= --strict-imports --include-path=theme/mos-theme/style/
-FONT_AWESOME	:= theme/mos-theme/style/font-awesome/fonts/
 
 less: prepare-build
 	#lessc $(LESS_OPTIONS) $(LESS) build/css/style.css
