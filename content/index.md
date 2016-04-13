@@ -50,7 +50,7 @@ Eventet går av stapeln fredagen den 27:e maj vid Studentviken. Huvudeventet sta
 
 
 
-Program
+Program {#program}
 -------------------------------
 
 | Klockslag         | Whats up?                          |
@@ -64,15 +64,15 @@ Program
 
 
 
-Staff team och members
+Staff team och members {#staff}
 -------------------------------
 
 Årets staff members äro:
 
 | Team              | Participants                       |
 |-------------------|------------------------------------|
-| team-shopper      | mos, (feel-free-to-join)           |
-| team-hacker       | positions open                     |
+| team-shopper      | mos, kh31d4r,(feel-free-to-join)   |
+| team-hacker       | positions open + mos, kh31d4r      |
 | team-bära-grillen | team leader wanted, positions open |
 | team-tipspromenad | positions open                     |
 | team-kom-på-nåt   | positions open                     |
@@ -80,7 +80,7 @@ Staff team och members
 
 
 
-För övrigt anser vi
+För övrigt anser vi {#bytheway}
 ------------------------------
 
 *Come join the grill motion.*
