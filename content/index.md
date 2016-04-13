@@ -1,7 +1,7 @@
 ---
 author: mos
 created: 2016-04-13
- 
+
 views:
 
     flash:
@@ -29,6 +29,17 @@ views:
             meta:
                 type: content
                 route: block/main-sidebar
+
+    sidebar-facebook:
+        region: sidebar-right
+        template: default/block
+        sort: 3
+        data:
+            meta:
+                type: content
+                route: block/facebook-sidebar
+
+
 ...
 GrillCon 2016 Vår
 ===============================
