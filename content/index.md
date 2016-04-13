@@ -60,7 +60,7 @@ Staff team och members
 
 | Team              | Participants                       |
 |-------------------|------------------------------------|
-| team-shopper      | mos, (feel-free-to-join)           |
+| team-shopper      | mos, kh31d4r,(feel-free-to-join)           |
 | team-hacker       | positions open                     |
 | team-bära-grillen | team leader wanted, positions open |
 | team-tipspromenad | positions open                     |
