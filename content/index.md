@@ -12,9 +12,19 @@ views:
                 type: content
                 route: block/main-flash
 
+    sidebar-anmal:
+        region: sidebar-right
+        template: default/block
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: block/main-sidebar-anmalan
+
     sidebar:
         region: sidebar-right
         template: default/block
+        sort: 2
         data:
             meta:
                 type: content
