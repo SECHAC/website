@@ -39,7 +39,7 @@ Eventet går av stapeln fredagen den 27:e maj vid Studentviken. Huvudeventet sta
 
 
 
-Program
+Program {#program}
 -------------------------------
 
 | Klockslag         | Whats up?                          |
@@ -53,7 +53,7 @@ Program
 
 
 
-Staff team och members
+Staff team och members {#staff}
 -------------------------------
 
 Årets staff members äro:
@@ -69,7 +69,7 @@ Staff team och members
 
 
 
-För övrigt anser vi
+För övrigt anser vi {#bytheway}
 ------------------------------
 
 *Come join the grill motion.*
