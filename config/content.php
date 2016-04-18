@@ -41,5 +41,7 @@ return [
     // Filter to load content
     "pattern" => "*.md",
     "meta" => ".meta.md",
+    "author"    => "#author/([^\.]+)#",
+    "category"  => "#kategori/([^\.]+)#",
 
 ];

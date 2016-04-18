@@ -180,6 +180,16 @@ return array(
 
 
     /**
+     * Add header for cache control when outputting images.
+     *
+     * Default value:
+     *  cache_control: null, or set to string
+     */
+     'cache_control' => "max-age=7200",
+
+     'skip_original' => true,
+
+    /**
      * Post processing of images using external tools, set to true or false
      * and set command to be executed.
      *
@@ -194,18 +204,16 @@ return array(
      *  jpeg_optimize:     false
      *  jpeg_optimize_cmd: '/usr/local/bin/jpegtran -copy none -optimize'
      */
-    /*
     'postprocessing' => array(
-        'png_filter'        => false,
-        'png_filter_cmd'    => '/usr/local/bin/optipng -q',
+        'png_filter'        => true,
+        'png_filter_cmd'    => '/usr/bin/optipng -q',
 
-        'png_deflate'       => false,
+        'png_deflate'       => true,
         'png_deflate_cmd'   => '/usr/local/bin/pngout -q',
 
-        'jpeg_optimize'     => false,
-        'jpeg_optimize_cmd' => '/usr/local/bin/jpegtran -copy none -optimize',
+        'jpeg_optimize'     => true,
+        'jpeg_optimize_cmd' => '/usr/bin/jpegtran -copy none -optimize',
     ),
-    */
 
 
 
