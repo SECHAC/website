@@ -148,7 +148,7 @@ site-build:
 	install -d htdocs/cimage
 	rsync -av vendor/mos/cimage/webroot/imgd.php htdocs/cimage/imgd.php
 	rsync -av vendor/mos/cimage/icc/ htdocs/cimage/icc/
-	rsync -av vendor/mos/cimage/webroot/img/ htdocs/img/cimage/
+	#rsync -av vendor/mos/cimage/webroot/img/ htdocs/img/cimage/
 
 	# Copy from mos-theme
 	#install -d htdocs/js/mos-theme
