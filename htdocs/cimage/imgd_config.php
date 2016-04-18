@@ -185,7 +185,7 @@ return array(
      * Default value:
      *  cache_control: null, or set to string
      */
-     'cache_control' => "max-age=7200",
+     'cache_control' => "max-age=604800",
 
      'skip_original' => true,
 
