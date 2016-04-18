@@ -21,7 +21,7 @@ return [
             "favicon"       => "img/favicon/favicon_256_256.png",
 
             // Style and stylesheets
-            "stylesheets" => ["css/style.min.css?2"],
+            "stylesheets" => ["css/style.min.css?3"],
             "styleInline" => null,
 
             // JavaScript
