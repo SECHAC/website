@@ -12,6 +12,7 @@ views:
         template: default/blog-list
         sort: 2
         data:
+            dateFormat: Y-m-d
             meta: 
                 type: toc
                 items: 7
