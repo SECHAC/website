@@ -76,7 +76,7 @@ Staff team och members {#staff}
 | team-bära-grillen | team leader wanted, positions open |
 | team-tipspromenad | positions open                     |
 | team-kom-på-nåt   | positions open                     |
-| team-sitt-och-mys | pansar, wasa                       |
+| team-sitt-och-mys | pansar, wasa, Johan?                      |
 
 
 
