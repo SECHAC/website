@@ -62,7 +62,7 @@ local-cache-clear:
 
 
 #
-# 
+#
 # target: local-publish-clear - Publish website to local host and clear the cache.
 .PHONY: local-publish-clear
 local-publish-clear: local-cache-clear local-publish
@@ -284,6 +284,11 @@ ServerAdmin $(SERVER_ADMIN)
 		Allow from all
 	</Directory>
 
+	<FilesMatch "\.(jpe?g|png|gif|js|css|svg)$">
+		   ExpiresActive On
+		   ExpiresDefault "access plus 1 week"
+	</FilesMatch>
+
 	ErrorLog  $(HTDOCS_BASE)/$${site}/error.log
 	CustomLog $(HTDOCS_BASE)/$${site}/access.log combined
 </VirtualHost>
@@ -314,6 +319,6 @@ export VIRTUAL_HOST_443_WWW
 virtual-host-https:
 	echo "$$VIRTUAL_HOST_443" | sudo bash -c 'cat > /etc/apache2/sites-available/$(WWW_SITE).conf'
 	echo "$$VIRTUAL_HOST_443_WWW" | sudo bash -c 'cat > /etc/apache2/sites-available/www.$(WWW_SITE).conf'
-	sudo a2enmod ssl
+	sudo a2enmod ssl expires
 	sudo apachectl configtest
 	sudo service apache2 reload
