@@ -19,6 +19,12 @@ return [
         "yamlfrontmatter",
     ],
 
+    // Additional filters to get title
+    "textfilter-title" => [
+        "markdown",
+        "titlefromh1",
+    ],
+
     // Default options for textfilter to parse second step
     // Might update frontmatter
     "textfilter" => [
