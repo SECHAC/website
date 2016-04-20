@@ -12,6 +12,11 @@ views:
                 type: content
                 route: block/main-flash
 
+    share-this:
+        region: main
+        template: default/share
+        sort: 2
+
     sidebar-anmal:
         region: sidebar-right
         template: default/block

@@ -49,5 +49,6 @@ return [
     "meta" => ".meta.md",
     "author"    => "#author/([^\.]+)#",
     "category"  => "#kategori/([^\.]+)#",
+    "pagination" => "sida",
 
 ];
