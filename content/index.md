@@ -77,11 +77,11 @@ Staff team och members {#staff}
 | Team              | Participants                       |
 |-------------------|------------------------------------|
 | team-shopper      | mos, kh31d4r,(feel-free-to-join)   |
-| team-hacker       | positions open + mos, kh31d4r, lew |
+| team-hacker       | positions open + mos, kh31d4r, lew, zeldah |
 | team-bära-grillen | team leader wanted, positions open |
-| team-tipspromenad | positions open                     |
+| team-tipspromenad | zeldah, lew                        |
 | team-kom-på-nåt   | positions open                     |
-| team-sitt-och-mys | pansar, wasa, Johan?                      |
+| team-sitt-och-mys | pansar, wasa, Johan?               |
 
 
 
