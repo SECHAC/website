@@ -1,5 +1,6 @@
 ---
 author: mos
+updated: 2016-05-23
 created: 2016-04-13
 
 views:
@@ -78,7 +79,7 @@ Staff team och members {#staff}
 |-------------------|------------------------------------|
 | team-shopper      | mos, kh31d4r,(feel-free-to-join)   |
 | team-hacker       | positions open + mos, kh31d4r, lew, zeldah |
-| team-bära-grillen | team leader wanted, positions open |
+| team-bära-grillen | team leader Mjupps, positions open |
 | team-tipspromenad | zeldah, lew                        |
 | team-kom-på-nåt   | positions open                     |
 | team-sitt-och-mys | pansar, wasa, Johan?               |
