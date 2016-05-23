@@ -7,6 +7,7 @@ views:
 
     block-about: false
     article-toc: false
+    share-this: false
 
     blog-list:
         region: main
