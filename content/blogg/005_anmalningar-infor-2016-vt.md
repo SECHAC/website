@@ -2,7 +2,7 @@
 author: mos
 published: 2016-05-25
 ...
-Redo för GrillCon 2016 Vår?
+Redo för GrillCon Vår 2016?
 ======================================
 
 [FIGURE src=/image/vimmel/vem-ar-mos.jpg?w=w2&h=200&cf&a=0,0,0,0&a=0,0,20,0&f0=colorize,40,0,0,0&f1=pixelate,8,0 caption="Vem är mos?"]

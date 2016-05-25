@@ -47,7 +47,7 @@ views:
 
 
 ...
-GrillCon 2016 Vår
+GrillCon Vår 2016
 ===============================
 
 Du kan nu [anmäla dig till eventet](https://github.com/dbwebb-se/grillcon/issues/2) **GrillCon 2016 Vår** som early bird.
