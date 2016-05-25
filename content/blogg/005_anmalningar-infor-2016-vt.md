@@ -15,14 +15,14 @@ Mycket som skall hända -- anmälningar att räkna ihop, shoppinglista att uppda
 
 
 
-Vackert Väder är beställt
+Vackert Väder är beställt {#vacker}
 --------------------------------------
 
 Låt mig bara notera att min inköpsanmälan om "Vackert Väder" blev beviljad, även i år. Känns stabilt och bra.
 
 
 
-Anmälningsläget?
+Anmälningsläget? {#anmalning}
 --------------------------------------
 
 Detta året valde vi att samla in anmälningar via [GitHub](https://github.com/dbwebb-se/grillcon/issues/2), [Facebook](https://www.facebook.com/events/209303972782488/) och [Google+](https://plus.google.com/u/1/events/cfsffovrs2gr2c6uggvsneo6f1k). Facit blev följande, per dagens datum.
@@ -41,7 +41,7 @@ Till nästa år tror jag dock vi kan avfärda Google+ som en kanal för anmälni
 
 
 
-Det ryktas om en Tipspromenad!
+Det ryktas om en Tipspromenad! {#tips}
 --------------------------------------
 
 Jag fick möjligheten att se frågorna i förväg men vägrade naturligtvis då jag avser att vinna en ärlig kamp bland giganter av tipspromenadsutförare.
@@ -50,7 +50,7 @@ Man undrar stilla vad priset blir. Senaste årens priser har varit ett (halvt) k
 
 
 
-Hitta hit?
+Hitta hit? {#hitta}
 ---------------------------------------
 
 Studentviken, BTH, Karlskrona -- eller mer exakt:
