@@ -1,6 +1,6 @@
 ---
 author: mos
-published: 2016-05-25
+published: 2016-05-25 12:00
 ...
 GrillCon galleri
 ======================================

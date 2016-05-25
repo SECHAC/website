@@ -1,13 +1,13 @@
 ---
 author: mos
-published: 2016-05-25
+published: 2016-05-25 12:01
 ...
 Redo för GrillCon Vår 2016?
 ======================================
 
 [FIGURE src=/image/vimmel/vem-ar-mos.jpg?w=w2&h=200&cf&a=0,0,0,0&a=0,0,20,0&f0=colorize,40,0,0,0&f1=pixelate,8,0 caption="Vem är mos?"]
 
-Då närmar det sig, två dagar kvar till GrillCon 2016 Vår.
+Då närmar det sig, två dagar kvar till GrillCon Vår 2016.
 
 Mycket som skall hända -- anmälningar att räkna ihop, shoppinglista att uppdatera, team att aktivera, väder att beställa och en karta så alla hittar hit.
 
@@ -57,7 +57,7 @@ Studentviken, BTH, Karlskrona -- eller mer exakt:
 
 > N56 11.220 E15 35.600
 
-Karta, för den som inte har GPS.
+Karta, för den som inte har GPS och önskar en grafisk representation av platsangivelsen.
 
 <div style="width: 630; height: 400px; margin-bottom: 22px;" id="map"></div>
 <script>
@@ -81,5 +81,7 @@ function initMap() {
 
 
 Synes!
+
+Något att tillägga? [Skapa en issue](https://github.com/dbwebb-se/grillcon/issues).
 
 /staff-mos
