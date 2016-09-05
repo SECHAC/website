@@ -1,7 +1,7 @@
 ---
 author: mos
-updated: 2016-05-23
-created: 2016-04-13
+revision:
+    2016-09-05: (A, mos) inför grillcon 2016 vår.
 
 views:
 
@@ -11,7 +11,7 @@ views:
         data:
             meta:
                 type: content
-                route: block/main-flash
+                route: grillcon-2016-host/block/flash
 
     share-this:
         region: main
@@ -25,7 +25,7 @@ views:
         data:
             meta:
                 type: content
-                route: block/main-sidebar-anmalan
+                route: grillcon-2016-host/block/sidebar-anmalan
 
     sidebar:
         region: sidebar-right
@@ -34,25 +34,15 @@ views:
         data:
             meta:
                 type: content
-                route: block/main-sidebar
-
-    sidebar-facebook:
-        region: sidebar-right
-        template: default/block
-        sort: 3
-        data:
-            meta:
-                type: content
-                route: block/facebook-sidebar
-
+                route: grillcon-2016-host/block/sidebar
 
 ...
-GrillCon Vår 2016
+GrillCon 2016 Höst
 ===============================
 
-Du kan nu [anmäla dig till eventet](https://github.com/dbwebb-se/grillcon/issues/2) **GrillCon 2016 Vår** som early bird.
+Du kan nu anmäla dig till **GrillCon 2016 Höst**.
 
-Eventet går av stapeln fredagen den 27:e maj vid Studentviken. Huvudeventet startar klockan 17:00.
+Eventet går av stapeln fredagen den 16:e september vid Studentviken. Huvudeventet startar klockan 17:00.
 
 
 
@@ -61,12 +51,12 @@ Program {#program}
 
 | Klockslag         | Whats up?                          |
 |-------------------|------------------------------------|
-| 11:00-12:00     | Shopping CityGross (team-shopper).                |
-| 13:15-14:45     | Möte Programrådsutskott Webbprogrammering (lite allvarligt oxå, speciell inbjudan).    |
-| 15:00-16:45     | Hackning av grönsaker och kött (team-hacking). |
-| 15:00-16:45     | Parallell session. Softa i soffan och titta på hackarna som jobbar och snula på BTHs kaffemaskin och se om någon gammal lärare dyker upp i lärarrummet. |
-| 17:00-slut      | Grill med förrätt, varmrätt, efterrätt och snacks. |
+| 13:00-14:00       | Shopping CityGross (team-shopper).                |
+| 14:00-15:00       | Hackning av grönsaker och kött (team-hacking).    |
+| 14:00-16:45       | Parallell session. Softa i soffan och titta på hackarna som jobbar och snula på BTHs kaffemaskin och se om någon gammal lärare dyker upp i lärarrummet. |
+| 17:00-slut        | Grill med förrätt, varmrätt, efterrätt och snacks. |
 
+Eventuellt kan tillkomma programpunkter, till exempel om någon utmanar nuvarande titelinnehavare i WM i Kubb, till exempel.
 
 
 
@@ -77,16 +67,15 @@ Staff team och members {#staff}
 
 | Team              | Participants                       |
 |-------------------|------------------------------------|
-| team-shopper      | mos, kh31d4r,(feel-free-to-join)   |
-| team-hacker       | positions open + mos, kh31d4r, lew, zeldah |
-| team-bära-grillen | team leader Mjupps, positions open |
-| team-tipspromenad | zeldah, lew                        |
-| team-kom-på-nåt   | positions open                     |
-| team-sitt-och-mys | pansar, wasa, Johan?               |
+| team-shopper      | mos, ... (feel-free-to-join)       |
+| team-hacker       | positions open                     |
+| team-bära-grillen | positions open                     |
+| team-tipspromenad | positions open                     |
+| team-kom-på-nåt   | positions always open              |
 
 
 
 För övrigt anser vi {#bytheway}
 ------------------------------
 
-*Come join the grill motion.*
+*Coolast grill-stol-med-equipment vinner.*

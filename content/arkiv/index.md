@@ -1,6 +1,8 @@
 ---
 author: mos
-created: 2016-04-13
+revision:
+    2016-09-04: (B, mos) La till grillcon 2016 vår.
+    2016-04-13: (A, mos) Första versionen.
  
 views:
 
@@ -20,6 +22,8 @@ Länka till information om genomförda GrillCons.
 
 Pre- GrillCons
 ------------------------
+
+* Anmälan till [GrillCon 2016 Vår](arkiv/grillcon-2016-var)
 
 * Anmälan till [GrillCon Höst 2015](http://dbwebb.se/forum/viewtopic.php?f=25&t=4480)
 

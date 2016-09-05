@@ -1,10 +1,9 @@
 {
     "require": {
-        "mos/anax": "dev-master",
-        "mos/ctextfilter": "dev-master",
-        "geshi/geshi": "dev-master",
-        "mos/cimage": "@dev",
-        "mos/cform": "2.x-dev",
+        "mos/anax": "^2.5",
+        "mos/ctextfilter": "^1.2",
+        "michelf/php-smartypants": "1.6.x-dev",
+        "mos/cimage": "^0.7",
         "ext-yaml": "*"
     }
 }

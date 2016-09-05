@@ -21,11 +21,12 @@ return [
             "favicon"       => "img/favicon/favicon_256_256.png",
 
             // Style and stylesheets
-            "stylesheets" => ["css/style.min.css?v=4"],
+            "stylesheets" => ["css/style.min.css?v=160905"],
             "styleInline" => null,
 
             // JavaScript
-            "javascripts" => ["js/mos-theme/responsive-menu.min.js"],
+            //"javascripts" => ["js/mos-theme/responsive-menu.min.js&v=160905"],
+            "javascripts" => ["js/mos-theme/responsive-menu.js?v=160905"],
         ],
     ],
 
@@ -79,6 +80,12 @@ return [
             "template" => "default/navbar",
             "data" => [],
             "sort" => 1
+        ],
+        [
+            "region" => "profile",
+            "template" => "default/navbar-max",
+            "data" => [],
+            "sort" => -1
         ],
         [
             "region" => "footer",
