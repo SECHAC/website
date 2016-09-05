@@ -42,7 +42,7 @@ $ make virtual-host
 $ make update
 ```
 
-Now open your browser at `local.dbwebb.se` and browse the website.
+Now open your browser at `local.grillcon.dbwebb.se` and browse the website.
 
 If you need to upgrade your existing installation you can just redo it all.
 
