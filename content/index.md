@@ -56,7 +56,7 @@ Program {#program}
 | 14:00-16:45       | Parallell session. Softa i soffan och titta på hackarna som jobbar och snula på BTHs kaffemaskin och se om någon gammal lärare dyker upp i lärarrummet. |
 | 17:00-slut        | Grill med förrätt, varmrätt, efterrätt och snacks. |
 
-Eventuellt kan tillkomma programpunkter, till exempel om någon utmanar nuvarande titelinnehavare i WM i Kubb, till exempel.
+Eventuellt kan tillkomma programpunkter, till exempel om någon[ utmanar nuvarande titelinnehavare i WM i Kubb](blogg/webbprogrammeringsmasterskap-i-kubb), till exempel.
 
 
 
