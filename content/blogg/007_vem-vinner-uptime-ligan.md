@@ -8,11 +8,11 @@ Vem vinner WM i Uptime 2017?
 
 [FIGURE src=https://dbwebb.se/image/snapht14/hp-proliant-microserver.jpg?w=w2&h=200&cf&a=0,0,0,0&a=0,0,20,0&f0=colorize,40,0,0,0&f1=pixelate,8,0&aro caption="Bra stabila prylar för uptime"]
 
-Att ha mest uptime har alltid varit ett prestige-laddat inslag i IRC-chatten och i allmänna diskussioner samt löst skvaller nere på torget en lördagsförmiddag.
+Att ha mest uptime har alltid varit ett prestigeladdat inslag i IRC-chatten och i allmänna diskussioner samt löst skvaller nere på torget en lördagsförmiddag.
 
 Ingen vill ju ha en server med låg uptime. Det berättar ju alltför mycket om om ens wannabe-ambitioner och det definierar termen "underachievement" på ett alltför tydligt sätt.
 
-> "Hörde du att pansar snubblade på sladded till sin pi igen? Han tappade all sin uptime, igen..."
+> "Hörde du att pansar snubblade på sladden till sin pi igen? Han tappade all sin uptime, igen..."
 
 Uptime alltså. Vem vinner? Vem kan mopsa upp sig?
 
@@ -66,7 +66,7 @@ Hetaste tipset.
 
 Go go, vem blir WM-mästare i Uptime 2017? Vinnaren koras vid vårgrillen.
 
-Följ [tävlingsläget i forumet](https://dbwebb.se/t/2698).
+Följ [tävlingsläget i forumet](https://dbwebb.se/t/5595).
 
 
 
