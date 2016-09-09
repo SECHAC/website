@@ -172,13 +172,6 @@ etc-hosts:
 
 
 
-# target: create-local-structure - Create needed local directory structure.
-.PHONY: create-local-structure
-create-local-structure:
-	install --directory $(HOME)/htdocs/$(WWW_SITE)/htdocs
-
-
-
 # target: ssl-cert-create - One way to create the certificates.
 .PHONY: ssl-cert-create
 ssl-cert-create:
@@ -199,7 +192,7 @@ ssl-cert-update:
 
 # target: install-fresh - Do a fresh installation of a new server.
 .PHONY: install-fresh
-install-fresh: create-local-structure etc-hosts virtual-host update
+install-fresh: etc-hosts virtual-host update
 
 
 
@@ -248,6 +241,7 @@ endef
 export VIRTUAL_HOST_80_WWW
 
 virtual-host:
+	install --directory $(HOME)/htdocs/$(WWW_SITE)/htdocs
 	echo "$$VIRTUAL_HOST_80" | sudo bash -c 'cat > /etc/apache2/sites-available/$(WWW_SITE).conf'
 	echo "$$VIRTUAL_HOST_80_WWW" | sudo bash -c 'cat > /etc/apache2/sites-available/www.$(WWW_SITE).conf'
 	sudo a2ensite $(WWW_SITE) www.$(WWW_SITE)
