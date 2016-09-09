@@ -68,6 +68,7 @@ Go go, vem blir WM-mästare i Uptime 2017? Vinnaren koras vid vårgrillen.
 
 Följ [tävlingsläget i forumet](https://dbwebb.se/t/5595).
 
+WM = Webbprogrammerings-Mästare. Om det var oklart.
 
 
 /staff-mos
