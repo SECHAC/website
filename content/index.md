@@ -72,6 +72,7 @@ Staff team och members {#staff}
 | team-bära-grillen | positions open                     |
 | team-tipspromenad | positions open                     |
 | team-kom-på-nåt   | positions always open              |
+| team-sitt-och-mys | Pansar och Wasa so far             |
 
 
 
