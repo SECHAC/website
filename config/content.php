@@ -19,6 +19,12 @@ return [
         "yamlfrontmatter",
     ],
 
+    // Additional filters to get title
+    "textfilter-title" => [
+        "markdown",
+        "titlefromh1",
+    ],
+
     // Default options for textfilter to parse second step
     // Might update frontmatter
     "textfilter" => [
@@ -41,5 +47,8 @@ return [
     // Filter to load content
     "pattern" => "*.md",
     "meta" => ".meta.md",
+    "author"    => "#author/([^\.]+)#",
+    "category"  => "#kategori/([^\.]+)#",
+    "pagination" => "sida",
 
 ];

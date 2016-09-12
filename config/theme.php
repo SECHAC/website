@@ -21,11 +21,12 @@ return [
             "favicon"       => "img/favicon/favicon_256_256.png",
 
             // Style and stylesheets
-            "stylesheets" => ["css/style.min.css"],
+            "stylesheets" => ["css/style.min.css?v=160905"],
             "styleInline" => null,
 
             // JavaScript
-            "javascripts" => [],
+            //"javascripts" => ["js/mos-theme/responsive-menu.min.js&v=160905"],
+            "javascripts" => ["js/mos-theme/responsive-menu.js?v=160905"],
         ],
     ],
 
@@ -41,6 +42,8 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "GrillCon",
+                "siteLogoTextIcon" => "img/logo/grillcon_logo_39x40.png",
+                "siteLogoTextIconAlt" => "Liten logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
                 "siteTitle"     => null, //"Anax PHP framework",
@@ -59,10 +62,30 @@ return [
             "sort" => -1
         ],
         [
+            "region" => "header",
+            "template" => "default/content",
+            "data" => [
+                "content" => "<div id=\"fb-root\"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6\";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>"
+            ],
+        ],
+        [
             "region" => "navbar2",
             "template" => "default/navbar",
             "data" => [],
             "sort" => 1
+        ],
+        [
+            "region" => "profile",
+            "template" => "default/navbar-max",
+            "data" => [],
+            "sort" => -1
         ],
         [
             "region" => "footer",

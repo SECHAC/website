@@ -1,21 +1,22 @@
 ---
 views:
     main:
+        template: default/article
         data:
             class: blog
 
     block-about: false
     article-toc: false
+    share-this: false
 
     blog-list:
         region: main
         template: default/blog-list
         sort: 2
         data:
+            dateFormat: j F Y
             meta: 
                 type: toc
-                items: 7
-                orderorder: desc
 
     blog-toc:
         region: sidebar-right
@@ -23,9 +24,8 @@ views:
         sort: 2
         data:
             meta: 
-                type: toc
-                items: 4
-                orderorder: desc
+                type: copy
+                view: blog-list
 
 ...
 GrillCon Blogg

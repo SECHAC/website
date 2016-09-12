@@ -62,7 +62,7 @@ local-cache-clear:
 
 
 #
-# 
+#
 # target: local-publish-clear - Publish website to local host and clear the cache.
 .PHONY: local-publish-clear
 local-publish-clear: local-cache-clear local-publish
@@ -114,8 +114,8 @@ less-update-clear: less local-publish-clear
 
 
 
+# target: less - Build less stylesheet and update the site with it.
 .PHONY: less
-
 less: prepare-build
 	#lessc $(LESS_OPTIONS) $(LESS) build/css/style.css
 	lessc --clean-css $(LESS_OPTIONS) $(LESS) build/css/style.min.css
@@ -123,6 +123,7 @@ less: prepare-build
 	cp build/css/style.min.css htdocs/css/style.min.css
 
 	rsync -av $(FONT_AWESOME) htdocs/fonts/
+	rsync -av theme/mos-theme/js/ htdocs/js/mos-theme/
 
 
 
@@ -148,7 +149,7 @@ site-build:
 	install -d htdocs/cimage
 	rsync -av vendor/mos/cimage/webroot/imgd.php htdocs/cimage/imgd.php
 	rsync -av vendor/mos/cimage/icc/ htdocs/cimage/icc/
-	rsync -av vendor/mos/cimage/webroot/img/ htdocs/img/cimage/
+	#rsync -av vendor/mos/cimage/webroot/img/ htdocs/img/cimage/
 
 	# Copy from mos-theme
 	#install -d htdocs/js/mos-theme
@@ -168,13 +169,6 @@ site-build:
 etc-hosts:
 	echo "127.0.0.1 $(WWW_LOCAL)" | sudo bash -c 'cat >> /etc/hosts'
 	@tail -1 /etc/hosts
-
-
-
-# target: create-local-structure - Create needed local directory structure.
-.PHONY: create-local-structure
-create-local-structure:
-	install --directory $(HOME)/htdocs/$(WWW_SITE)/htdocs
 
 
 
@@ -198,7 +192,7 @@ ssl-cert-update:
 
 # target: install-fresh - Do a fresh installation of a new server.
 .PHONY: install-fresh
-install-fresh: create-local-structure etc-hosts virtual-host update
+install-fresh: etc-hosts virtual-host update
 
 
 
@@ -224,6 +218,11 @@ ServerAdmin $(SERVER_ADMIN)
 		Allow from all
 	</Directory>
 
+	<FilesMatch "\.(jpe?g|png|gif|js|css|svg)$">
+		   ExpiresActive On
+		   ExpiresDefault "access plus 1 week"
+	</FilesMatch>
+
 	ErrorLog  $(HTDOCS_BASE)/$${site}/error.log
 	CustomLog $(HTDOCS_BASE)/$${site}/access.log combined
 </VirtualHost>
@@ -242,6 +241,7 @@ endef
 export VIRTUAL_HOST_80_WWW
 
 virtual-host:
+	install --directory $(HOME)/htdocs/$(WWW_SITE)/htdocs
 	echo "$$VIRTUAL_HOST_80" | sudo bash -c 'cat > /etc/apache2/sites-available/$(WWW_SITE).conf'
 	echo "$$VIRTUAL_HOST_80_WWW" | sudo bash -c 'cat > /etc/apache2/sites-available/www.$(WWW_SITE).conf'
 	sudo a2ensite $(WWW_SITE) www.$(WWW_SITE)
@@ -284,6 +284,11 @@ ServerAdmin $(SERVER_ADMIN)
 		Allow from all
 	</Directory>
 
+	<FilesMatch "\.(jpe?g|png|gif|js|css|svg)$">
+		   ExpiresActive On
+		   ExpiresDefault "access plus 1 week"
+	</FilesMatch>
+
 	ErrorLog  $(HTDOCS_BASE)/$${site}/error.log
 	CustomLog $(HTDOCS_BASE)/$${site}/access.log combined
 </VirtualHost>
@@ -314,6 +319,6 @@ export VIRTUAL_HOST_443_WWW
 virtual-host-https:
 	echo "$$VIRTUAL_HOST_443" | sudo bash -c 'cat > /etc/apache2/sites-available/$(WWW_SITE).conf'
 	echo "$$VIRTUAL_HOST_443_WWW" | sudo bash -c 'cat > /etc/apache2/sites-available/www.$(WWW_SITE).conf'
-	sudo a2enmod ssl
+	sudo a2enmod ssl expires
 	sudo apachectl configtest
 	sudo service apache2 reload
