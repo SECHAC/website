@@ -69,7 +69,7 @@ Staff team och members {#staff}
 |-------------------|------------------------------------|
 | team-shopper      | mos, ... (feel-free-to-join)       |
 | team-hacker       | positions open                     |
-| team-bära-grillen | positions open                     |
+| team-bära-grillen | Oscar + hangarounds                |
 | team-tipspromenad | positions open                     |
 | team-kom-på-nåt   | positions always open              |
 | team-sitt-och-mys | Pansar och Wasa so far             |
