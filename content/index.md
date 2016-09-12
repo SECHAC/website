@@ -80,3 +80,4 @@ För övrigt anser vi {#bytheway}
 ------------------------------
 
 *Coolast grill-stol-med-equipment vinner.*
+*Det borde komma en elektronisk tipsrunda.*
