@@ -1,6 +1,7 @@
 ---
 author: mos
 revision:
+    2017-01-26: (C, mos) La till grillcon 2016 höst.
     2016-09-04: (B, mos) La till grillcon 2016 vår.
     2016-04-13: (A, mos) Första versionen.
  

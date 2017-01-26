@@ -56,6 +56,12 @@ return [
                 "title" => "Developer blog",
                 "mark-if-parent" => true,
             ],
+            "galleri" => [
+                "text"  =>"Galleri",
+                "url"   => $this->di->get("url")->create("blogg/grillcon-galleri"),
+                "title" => "GrillCon Galleri",
+                "mark-if-parent" => true,
+            ],
             "arkiv" => [
                 "text"  =>"Arkiv",
                 "url"   => $this->di->get("url")->create("arkiv"),
@@ -94,6 +100,12 @@ return [
                 "text"  =>"Blogg",
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => "Developer blog",
+                "mark-if-parent" => true,
+            ],
+            "galleri" => [
+                "text"  =>"Galleri",
+                "url"   => $this->di->get("url")->create("blogg/grillcon-galleri"),
+                "title" => "GrillCon Galleri",
                 "mark-if-parent" => true,
             ],
             "arkiv" => [
