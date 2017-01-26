@@ -23,6 +23,8 @@ Länka till information om genomförda GrillCons.
 Pre- GrillCons
 ------------------------
 
+* Anmälan till [GrillCon 2016 Höst](arkiv/grillcon-2016-host)
+
 * Anmälan till [GrillCon 2016 Vår](arkiv/grillcon-2016-var)
 
 * Anmälan till [GrillCon Höst 2015](http://dbwebb.se/forum/viewtopic.php?f=25&t=4480)

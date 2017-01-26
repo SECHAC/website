@@ -1,7 +1,7 @@
 ---
 author: mos
 revision:
-    2016-09-05: (A, mos) inför grillcon 2016 vår.
+    2017-01-26: (A, mos) Inför GrillCon 2017 vår.
 
 views:
 
@@ -11,7 +11,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2016-host/block/flash
+                route: grillcon-2017-var/block/flash
 
     share-this:
         region: main
@@ -25,59 +25,79 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2016-host/block/sidebar-anmalan
-
-    sidebar:
-        region: sidebar-right
-        template: default/block
-        sort: 2
-        data:
-            meta:
-                type: content
-                route: grillcon-2016-host/block/sidebar
+                route: grillcon-2017-var/block/sidebar-anmalan
 
 ...
-GrillCon 2016 Höst
+GrillCon 2017 Vår - The Extended Version
 ===============================
 
-Du kan nu anmäla dig till **GrillCon 2016 Höst**.
+Vårens GrillCon kommer ske över tre dagar mellan torsdag till lördag den 18 -- 20 maj 2017.
 
-Eventet går av stapeln fredagen den 16:e september vid Studentviken. Huvudeventet startar klockan 17:00.
+Planering för eventet pågår, [till exempel i forumet](https://dbwebb.se/t/6124). 
+
+Planen är preliminär. Men det ser ut ungefär så här.
 
 
 
-Program {#program}
--------------------------------
+Torsdag den 18:e maj - konferensdag
+--------------------------------
+
+Konferensdag, seminarier, presentationer och samtal kring programmering, webbprogrammering, databaser och programutveckling.
 
 | Klockslag         | Whats up?                          |
 |-------------------|------------------------------------|
-| 13:00-14:00       | Shopping CityGross (team-shopper).                |
-| 14:00-15:00       | Hackning av grönsaker och kött (team-hacking).    |
-| 14:00-16:45       | Parallell session. Softa i soffan och titta på hackarna som jobbar och snula på BTHs kaffemaskin och se om någon gammal lärare dyker upp i lärarrummet. |
-| 17:00-slut        | Grill med förrätt, varmrätt, efterrätt och snacks. |
+| 09:00-12:00       | Seminarier, presentationer, samtal (skola, arbete, öppen källkod) |
+| 13:00-15:00       | Seminarier, presentationer, samtal (skola, arbete, öppen källkod) |
+| 15:30-17:00       | Friskvård med innebandy |
+| 18:30-20:00       | (Eventuellt mer samtal, öppen källkod/idéer) |
 
-Eventuellt kan tillkomma programpunkter, till exempel om någon[ utmanar nuvarande titelinnehavare i WM i Kubb](blogg/webbprogrammeringsmasterskap-i-kubb), till exempel.
+Seminarierna är sådant vi löser själva, vi kan ju rätt så mycket, vi skall bara sprida det. Det får bli en blandning av studenter, alumni och lärarteamet som lägger upp det programmet. Vi styr själva. Kanske bjuder jag in nån företagare som är relevant för det vi gör. Får se. Det blir som en skoldag fast upplagd som en konferens.
+
+Vill du hålla i en presentation, seminarie eller anordna en gruppdiskussion om något så hojtar du till. Ett utmärkt tillfälle att initiera, hålla liv i, få hjälp med ett projekt inom öppen källkod.
+
+Jag är öppen även för kvällsaktiviteter, mer samtal eller något annat.
 
 
 
-Staff team och members {#staff}
--------------------------------
+Fredagen den 19:e maj - grill & programutvärdering
+--------------------------------
 
-Årets staff members äro:
+Fredagen är den klassiska GrillCon, med allt vad det innebär, inklusive en programutvärdering som kommer att vara öppen för alla. Det är ju viktigt att styra upp vad vi skall lära oss framöver och hur dbwebb-wannabies skall fostras. Eller hur?
+
+
+
+###Program
+
+| Klockslag         | Whats up?                          |
+|-------------------|------------------------------------|
+| 09:30-11:00       | Shopping CityGross (team-shopper).                |
+| 11:00-12:00       | Hackning av grönsaker och kött (team-hacking).    |
+| (09:00-12:00)       | (Eventuellt samtal/idéer för icke-shoppare och icke-hackare) |
+| 13:00-16:00       | Programutvärdering av program och kurspaket (samtliga + externa företagsrepresentanter). |
+| 17:00-            | Grill med förrätt, varmrätt, efterrätt och snacks. |
+| Under kvällen     | [Prisutdelning i WM i Uptime](blogg/vem-vinner-uptime-ligan) |
+
+
+
+###Jag vill hjälpa till {#team}
+
+Följande team finns att joina inför själva grillen.
 
 | Team              | Participants                       |
 |-------------------|------------------------------------|
 | team-shopper      | mos, ... (feel-free-to-join)       |
 | team-hacker       | positions open                     |
-| team-bära-grillen | Oscar + hangarounds                |
+| team-bära-grillen | Oscar (?) + hangarounds            |
 | team-tipspromenad | positions open                     |
+| team-kubb         | positions open                     |
 | team-kom-på-nåt   | positions always open              |
-| team-sitt-och-mys | Pansar och Wasa so far             |
+| team-sitt-och-mys |                                    |
 
 
 
-För övrigt anser vi {#bytheway}
-------------------------------
+Lördagen den 20:e maj - familjeutflykt
+--------------------------------
 
-*Coolast grill-stol-med-equipment vinner.*
-*Det borde komma en elektronisk tipsrunda.*
+dbwebbs fotoklubbs årliga familjeutflykt till hemligt resmål någonstans i Blekinge. En dagsutflykt i (hav), skog och mark. Ta med egen matsäck. Turen utgår från BTH 08:30, eller så. Turen avslutas vid BTH vid senare klockslag.
+
+Dagen arrangeras av dbwebbs fotoklubb.
