@@ -6,7 +6,7 @@ WM i Uptime 2017 är nu på upploppet
 ======================================
 
 
-[FIGURE src=https://dbwebb.se/image/snapht14/hp-proliant-microserver.jpg?w=w2&h=200&cf&a=50,0,20,20&f0=colorize,40,0,0,0&f1=pixelate,8,0&aro caption="Bra stabila prylar för uptime"]
+[FIGURE src=https://dbwebb.se/image/snapht14/hp-proliant-microserver.jpg?w=w2&h=200&cf&a=50,0,20,20&f0=colorize,40,0,0,0&f1=pixelate,8,0&aro caption="Hur stabila är prylarna egentligen?"]
 
 Vi är inne i sista månaden nu, det är upplopp i WM i Uptime 2017. Vem vinner och vem kommer med de bästa ursäkterna för förlorad uptime?
 

@@ -1,6 +1,7 @@
 ---
 author: mos
 revision:
+    2017-04-20: (B, mos) Programmet satt.
     2017-01-26: (A, mos) Inför GrillCon 2017 vår.
 
 views:
@@ -31,73 +32,149 @@ views:
 GrillCon 2017 Vår - The Extended Version
 ===============================
 
-Vårens GrillCon kommer ske över tre dagar mellan torsdag till lördag den 18 -- 20 maj 2017.
-
-Planering för eventet pågår, [till exempel i forumet](https://dbwebb.se/t/6124). 
-
-Planen är preliminär. Men det ser ut ungefär så här.
+Vårens GrillCon kommer ske över tre dagar mellan torsdag 18:e maj till lördag den 20:e maj 2017.
 
 
 
-Torsdag den 18:e maj - konferensdag
+Övergripande schema och aktiviteter {#oversikt}
 --------------------------------
 
-Konferensdag, seminarier, presentationer och samtal kring programmering, webbprogrammering, databaser och programutveckling.
+Det övergripande schemat ser ut så här.
 
-| Klockslag         | Whats up?                          |
-|-------------------|------------------------------------|
-| 09:00-12:00       | Seminarier, presentationer, samtal (skola, arbete, öppen källkod) |
-| 13:00-15:00       | Seminarier, presentationer, samtal (skola, arbete, öppen källkod) |
-| 15:30-17:00       | Friskvård med innebandy |
-| 18:30-20:00       | (Eventuellt mer samtal, öppen källkod/idéer) |
+| Dag          | Tid   | Whats up?                          |
+|--------------|-------|------------------------------------|
+| Torsdag 18/5 | 09-12 | Seminarier                         |
+|              | 13-16 | Seminarier                         |
+|              | 18-20 | Barhäng/matbit på krog inne i stan |
+| Fredag 19/5  | 09-10 | Frukost, mingla, hacka och preppa inför kvällens grill |
+|              | 10-12 | Opensource session med Anax CMS    |
+|              | 13-16 | Öppet mingel och programutvärdering Webbprogrammering med näringslivsrepresentanter |
+|              | 17-   | Traditionell Grill                 |
+| Lördag 20/5  | 09-16 | Familjeutflykt i Foto- och Fritidsklubbens regi |
 
-Seminarierna är sådant vi löser själva, vi kan ju rätt så mycket, vi skall bara sprida det. Det får bli en blandning av studenter, alumni och lärarteamet som lägger upp det programmet. Vi styr själva. Kanske bjuder jag in nån företagare som är relevant för det vi gör. Får se. Det blir som en skoldag fast upplagd som en konferens.
-
-Vill du hålla i en presentation, seminarie eller anordna en gruppdiskussion om något så hojtar du till. Ett utmärkt tillfälle att initiera, hålla liv i, få hjälp med ett projekt inom öppen källkod.
-
-Jag är öppen även för kvällsaktiviteter, mer samtal eller något annat.
+Läs vidare för mer information.
 
 
 
-Fredagen den 19:e maj - grill & programutvärdering
+Torsdag den 18:e maj - konferensdag {#konf}
 --------------------------------
 
-Fredagen är den klassiska GrillCon, med allt vad det innebär, inklusive en programutvärdering som kommer att vara öppen för alla. Det är ju viktigt att styra upp vad vi skall lära oss framöver och hur dbwebb-wannabies skall fostras. Eller hur?
+Fokus på mingel, kontaktskapande och seminarier som utvecklar oss inom vårt gebit och förbereder för arbetsliv.
+
+Nya och och gamla dbwebb:are, programvarutekniker och BTH-studenter delar med sig av kunskap och erfarenheter.
 
 
 
-###Program
+### Seminarier 09-12 samt 13-16 {#sem}
 
-| Klockslag         | Whats up?                          |
-|-------------------|------------------------------------|
-| 09:30-11:00       | Shopping CityGross (team-shopper).                |
-| 11:00-12:00       | Hackning av grönsaker och kött (team-hacking).    |
-| (09:00-12:00)       | (Eventuellt samtal/idéer för icke-shoppare och icke-hackare) |
-| 13:00-16:00       | Programutvärdering av program och kurspaket (samtliga + externa företagsrepresentanter). |
-| 17:00-            | Grill med förrätt, varmrätt, efterrätt och snacks. |
-| Under kvällen     | [Prisutdelning i WM i Uptime](blogg/vem-vinner-uptime-ligan) |
+[FIGURE src=/image/personer/anders-nygren.jpg?w=120&h=120&cf caption="Anders Nygren" class="right"]
+
+**[Anders Nygren](http://litemerafrukt.se)**, aka litemerafrukt, dbwebbare, tandläkare (många år i skolan) som omskolar sig till webbproggare och har som hobby att skriva om mos' kod i Anax.
+
+Anders kommer hålla i ett seminarie om [Elm](http://elm-lang.org/). Elm är ett språk som kompileras till JavaScript och Anders visar hur det fungerar och pratar om dess fördelar kontra eventuella nackdelar.
 
 
 
-###Jag vill hjälpa till {#team}
+[FIGURE src=/image/personer/daniel-persson.png?w=120&h=120&cf caption="Daniel Persson" class="right"]
 
-Följande team finns att joina inför själva grillen.
+**Daniel Persson**, aka kh31d4r, programvarutekniker årgång SE03 jobbar med programutveckling på Ericsson i Karlskrona och är aktiv dbwebbare i form och chatt.
 
-| Team              | Participants                       |
-|-------------------|------------------------------------|
-| team-shopper      | mos, ... (feel-free-to-join)       |
-| team-hacker       | positions open                     |
-| team-bära-grillen | Oscar (?) + hangarounds            |
-| team-tipspromenad | positions open                     |
-| team-kubb         | positions open                     |
-| team-kom-på-nåt   | positions always open              |
-| team-sitt-och-mys |                                    |
+Daniel har bland annat förkärlek för versionshanteringssystemet Git och kommer att upplysa oss om de senaste nyheterna i Git samt ett par mer avancerade begrepp i hur man jobbar med Git på "riktigt".
 
 
 
-Lördagen den 20:e maj - familjeutflykt
+[FIGURE src=/image/personer/johan-silvander.jpg?w=120&h=120&cf caption="Johan Silvander" class="right"]
+
+**[Johan Silvander](https://www.linkedin.com/in/johansilvander/)**, aka sillen, Civilingenjör EE LTH (1992), jobbar på Ericsson som senior specialist inom information manangement och är industridoktorand på BTH inom informationsmodellering.
+
+Johan kommer prata om hur de använde Python för att lösa en problemställning inom sitt forskningsprojekt. Det blev ett Python-skript som genererar Python-kod utifrån ett excelark och sedan exekverar sig självt. En spännande variant av hur man kan använda Python och ett "real-life" exempel.
+
+
+
+[FIGURE src=/image/personer/emil-folino.jpg?w=120&h=120&cf&a=15,40,40,20 caption="Emil Folino" class="right"]
+
+**[Emil Folino](https://www.linkedin.com/in/emil-folino-23a7002a/)**, aka efo, Civilingenjör i Medieteknik LiTH (2012), elitorienterare och numer dbwebbare.
+
+Emil kommer prata om programmeringsspråket [Rust](https://www.rust-lang.org/en-US/) och visa hur det fårhåller sig till andra språk för utveckling av backend. Det blir en introduktion till språket och en jämförelse av en beräkningstung uppgift mellan till något annat språk som Python, Ruby, PHP, nodejs.
+
+
+
+[FIGURE src=/image/personer/nils-widmark.jpg?w=120&h=120&cf&a=10,20,20,10 caption="Nils Widmark" class="right"]
+
+**[Nils Widmark](https://www.linkedin.com/in/nils-widmark-7115a18/)**, Civilingenjör i Industriell Ekonomi och Management BTH (2007), grunderare av [New Minds](http://newminds.se/) som fokuserar på att matcha unga ingenjörer med blivande arbetsgivare.
+
+Nu återvänder Nils till sin gamla skola, där han bland annat hade mos i ett grupprojekt. Nils tänker reflektera  tillbaka på sin studietid, hur det var på BTH och att sen komma ut i arbetslivet och starta egna företag. Nils har i sin nuvarande roll som företagare och arbetgivare till ingenjörer, en mycket god insikt i vad som krävs i arbetslivet och vilka teknikförmågor som efterfrågas.
+
+
+
+[FIGURE src=/image/personer/jonas-erlandsson.png?w=120&h=120&cf&a=0,0,10,0 caption="Jonas Erlandsson" class="right"]
+
+**[Jonas Erlandsson](https://www.linkedin.com/in/jonas-erlandsson-72916177/)**, läste kurspaket på dbwebb och jobbar som [teamledare på SiteDirect](http://www.sitedirect.se/sitedirect-jonas-erlandsson) inom ehandel i Växjö och anställer webbprogrammerare.
+
+När nu Jonas kommer tillbaka till sin gamla skola vill han prata om att våga lära att ta emot hjälp och hitta nya perspektiv för att kunna bli mer öppen och mottaglig för att utvecklas som utvecklare istället för att låsa in sig i sina egna lösningar och idéer. Allt för att lära sig och snabbare bli en mer kvalificerad utvecklare. Kanske delar han även med sig om inside information om det senaste inom ehandel.
+
+
+
+Fredagen den 19:e maj - programutvärdering & grill {#grill}
 --------------------------------
 
-dbwebbs fotoklubbs årliga familjeutflykt till hemligt resmål någonstans i Blekinge. En dagsutflykt i (hav), skog och mark. Ta med egen matsäck. Turen utgår från BTH 08:30, eller så. Turen avslutas vid BTH vid senare klockslag.
+Fredagen är den klassiska grillen och programutvärdering. Men det händer mycket mer under dagen som är fullmatad med aktiviteter och mingel.
 
-Dagen arrangeras av dbwebbs fotoklubb.
+Följande händer på fredagen.
+
+
+
+###Kl 09-10 Frukost, mingla, hacka och preppa inför kvällens grill {#hacka}
+
+[FIGURE src=/image/vimmel/hackning.jpg?w=720&h=240&cf&a=0,0,10,0 caption="Hack och prepp med marinad."]
+
+Någon vänlig själ har shoppat inför kvällens grill, själva shoppingen sker klockan 08-09 på CityGross.
+
+Klockan 09-10 småstartar vi dagen genom att samlas i lärarnas matsal och tar lite frukost, minglar och hackar och preppar inför kvällens grill. Köttet behövs läggas i marinad och grönsaker behöver delas.
+
+
+
+###Kl 10-12 Opensource session med Anax CMS {#opensource}
+
+[FIGURE src=/image/personer/mikael-roos.jpg?w=120&h=120&cf&a=0,0,0,0,0 caption="Mikael Roos" class="right"]
+
+**Mikael Roos**, aka mos och dbwebbare, samlar de själar som har lite fritid och är intresserade av projekt inom öppen källkod. Mikael avser att dela sin ambition att skapa ett fullmatat ramverk Anax CMS som skall ta över världsherraväldet. Det är inte svårare än så. Det är, som ni alla vet, en tunn linje mellan geni och galenskap.
+
+Att delta, i smått och stort, i ett större projekt inom opensource, klingar bra i en CV och ger dig ett trackrecord på GitHub som du kan visa upp för framtida arbetsgivare.
+
+Men räkna inte med att det är lätt.
+
+
+
+###Kl 13-16 Öppet mingel och programutvärdering Webbprogrammering med näringslivsrepresentanter {#progut}
+
+Syftet är dels att göra en programutvärdering av programmen Webbprogrammering och kurspaketen där lärare, studenter och externa näringlivsrepresentanter samlas och diskuterar förbättringsmöjilgheter och utmaningar. Samtidigt blir det en möjlighet till mingel och diskussion om relevanta och aktuella tekniker för webbprogrammerare och programvarutekniker.
+
+Sessionen är således utvecklade både för utbildningsprogrammen och för deltagarna. Det blir kompetensutveckling på flera plan.
+
+
+
+###Kl 17- Grillen {#grillen}
+
+[FIGURE src=/image/vimmel/grillspett.jpg?w=720&h=240&cf&a=0,0,0,0,0 caption="Grill med grillspett och annat."]
+
+Traditionell grill med förrätt, varmrätt, efterrätt och snacks.
+
+Under kvällen sker bland annat följande:
+
+* Utmanande tipspromenad.
+* [Prisutdelning i WM i Uptime 2017](blogg/vem-vinner-uptime-ligan).
+* Startskotten går för [WM i Arkadbyggeri 2018](https://dbwebb.se/t/642).
+
+
+
+Lördagen den 20:e maj - familjeutflykt {#utflykt}
+--------------------------------
+
+Utflykten pågår ungefär mellan 09-16. Plats för starten meddelas senare tillsammans med fler detaljer om dagen.
+
+Den årliga familjeutflykten som arrangeras av dbwebb's Foto- och Fritidsklubb. Det blir ett hemligt resmål och enklare vandring/promenad bland sevärdheter i omgivningarna. En dagsutflykt i (hav), skog och mark i all enkelhet. Ta med egen matsäck och kläder för väder.
+
+Man kan ta sig fram gående, med cykel och med barnvagn. Det finns vägval som kan göra promenaden kortare eller längre.
+
+Ta gärna med en kompis.
