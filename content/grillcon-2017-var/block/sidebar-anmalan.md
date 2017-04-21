@@ -1,18 +1,10 @@
 ####Anmäl dig NU!
 
-[Lös biljett genom att anmäla dig](https://goo.gl/Cw0wxl).
+[Lös biljett genom att anmäla dig](https://goo.gl/Cw0wxl) och kvalificera dig för (minst) en GrillCon badge.
 
 Alla nya och gamla dbwebb- och programvarutekniker-studenter är som vanligt välkomna och kvalificerade för att lösa biljett. 
 
 Är du inte kvalificerad för biljett men vill ändå delta? Maila mos och fråga.
-
-
-
-####Pro Bono
-
-Föreläsarna ställer upp Pro Bono. Ett stort tack till dem!
-
-BTH sponsrar grillen. Det är vi tacksamma för.
 
 
 
@@ -26,6 +18,14 @@ Följande kvalificerar dig för (minst) en badge:
 * Föreläsare
 * Näringslivsrepresentant
 * Volontärer
+
+
+
+####Pro Bono
+
+Föreläsarna ställer upp Pro Bono. Ett stort tack till dem!
+
+BTH sponsrar grillen. Det är vi tacksamma för.
 
 
 

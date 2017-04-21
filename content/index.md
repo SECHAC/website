@@ -59,7 +59,7 @@ Läs vidare för mer information.
 Torsdag den 18:e maj - konferensdag {#konf}
 --------------------------------
 
-Fokus på mingel, kontaktskapande och seminarier som utvecklar oss inom vårt gebit och förbereder för arbetsliv.
+Fokus på mingel, kontaktskapande och seminarier som utvecklar oss inom vårt gebit och förbereder för arbetsliv liksom det kompetensutvecklar de som redan är ute i arbetslivet.
 
 Nya och och gamla dbwebb:are, programvarutekniker och BTH-studenter delar med sig av kunskap och erfarenheter.
 
@@ -77,7 +77,7 @@ Anders kommer hålla i ett seminarie om [Elm](http://elm-lang.org/). Elm är ett
 
 [FIGURE src=/image/personer/daniel-persson.png?w=120&h=120&cf caption="Daniel Persson" class="right"]
 
-**Daniel Persson**, aka kh31d4r, programvarutekniker årgång SE03 jobbar med programutveckling på Ericsson i Karlskrona och är aktiv dbwebbare i form och chatt.
+**Daniel Persson**, aka kh31d4r, programvarutekniker (SE03) jobbar med programutveckling på Ericsson i Karlskrona och är aktiv dbwebbare i forum och chatt.
 
 Daniel har bland annat förkärlek för versionshanteringssystemet Git och kommer att upplysa oss om de senaste nyheterna i Git samt ett par mer avancerade begrepp i hur man jobbar med Git på "riktigt".
 
@@ -95,7 +95,7 @@ Johan kommer prata om hur de använde Python för att lösa en problemställning
 
 **[Emil Folino](https://www.linkedin.com/in/emil-folino-23a7002a/)**, aka efo, Civilingenjör i Medieteknik LiTH (2012), elitorienterare och numer dbwebbare.
 
-Emil kommer prata om programmeringsspråket [Rust](https://www.rust-lang.org/en-US/) och visa hur det fårhåller sig till andra språk för utveckling av backend. Det blir en introduktion till språket och en jämförelse av en beräkningstung uppgift mellan till något annat språk som Python, Ruby, PHP, nodejs.
+Emil kommer prata om programmeringsspråket [Rust](https://www.rust-lang.org/en-US/) och visa hur det förhåller sig till andra språk för utveckling av backend. Det blir en introduktion till språket och en jämförelse av en beräkningstung uppgift mellan till något annat språk som Python, Ruby, PHP, nodejs.
 
 
 
@@ -109,9 +109,17 @@ Nu återvänder Nils till sin gamla skola, där han bland annat hade mos i ett g
 
 [FIGURE src=/image/personer/jonas-erlandsson.png?w=120&h=120&cf&a=0,0,10,0 caption="Jonas Erlandsson" class="right"]
 
-**[Jonas Erlandsson](https://www.linkedin.com/in/jonas-erlandsson-72916177/)**, läste kurspaket på dbwebb och jobbar som [teamledare på SiteDirect](http://www.sitedirect.se/sitedirect-jonas-erlandsson) inom ehandel i Växjö och anställer webbprogrammerare.
+**[Jonas Erlandsson](https://www.linkedin.com/in/jonas-erlandsson-72916177/)**, aka rocky, läste kurspaket på dbwebb och jobbar som [teamledare på SiteDirect](http://www.sitedirect.se/sitedirect-jonas-erlandsson) inom ehandel i Växjö och anställer webbprogrammerare.
 
 När nu Jonas kommer tillbaka till sin gamla skola vill han prata om att våga lära att ta emot hjälp och hitta nya perspektiv för att kunna bli mer öppen och mottaglig för att utvecklas som utvecklare istället för att låsa in sig i sina egna lösningar och idéer. Allt för att lära sig och snabbare bli en mer kvalificerad utvecklare. Kanske delar han även med sig om inside information om det senaste inom ehandel.
+
+
+
+[FIGURE src=https://dbwebb.se/image/vimmel/pt91-skolfoto.jpg?w=120&h=120&cf&a=8,38,76,52 caption="Daniel Häggander" class="right"]
+
+**Daniel Häggander**, aka pt91dh, läste programvaruteknik (PT91), vann SM i programmering, doktorerade i multiprocessorarkitekturer, skapade eget konsultbolag [HLL](http://www.hll.se/) och jobbar med produktuveckling på Ericsson.
+
+Bilden till höger är från Daniels gamla klassfoto och man undrar om han då visste vad som komma skulle. Nu ett antal år senare har Daniel en hel del erfarenhet och vi tar gärna del av den då han kommer och pratar om "Tio tips från Daniel", i all sin enkelhet.
 
 
 
@@ -138,7 +146,7 @@ Klockan 09-10 småstartar vi dagen genom att samlas i lärarnas matsal och tar l
 
 [FIGURE src=/image/personer/mikael-roos.jpg?w=120&h=120&cf&a=0,0,0,0,0 caption="Mikael Roos" class="right"]
 
-**Mikael Roos**, aka mos och dbwebbare, samlar de själar som har lite fritid och är intresserade av projekt inom öppen källkod. Mikael avser att dela sin ambition att skapa ett fullmatat ramverk Anax CMS som skall ta över världsherraväldet. Det är inte svårare än så. Det är, som ni alla vet, en tunn linje mellan geni och galenskap.
+**Mikael Roos**, aka mos och dbwebbare, samlar de själar som har lite fritid och är intresserade av projekt inom öppen källkod. Mikael avser att dela sin ambition att skapa ett fullmatat ramverk Anax CMS som skall ta över världsherraväldet. Det är inte svårare än så. Det är, som ni alla vet, en tunn linje mellan påstådd genialitet och komplett galenskap.
 
 Att delta, i smått och stort, i ett större projekt inom opensource, klingar bra i en CV och ger dig ett trackrecord på GitHub som du kan visa upp för framtida arbetsgivare.
 
@@ -148,9 +156,33 @@ Men räkna inte med att det är lätt.
 
 ###Kl 13-16 Öppet mingel och programutvärdering Webbprogrammering med näringslivsrepresentanter {#progut}
 
-Syftet är dels att göra en programutvärdering av programmen Webbprogrammering och kurspaketen där lärare, studenter och externa näringlivsrepresentanter samlas och diskuterar förbättringsmöjilgheter och utmaningar. Samtidigt blir det en möjlighet till mingel och diskussion om relevanta och aktuella tekniker för webbprogrammerare och programvarutekniker.
+Här är våra utsedda näringslivsrepresentanter. Det går ju bra för dem så de borde kunna ge oss goda råd.
 
-Sessionen är således utvecklade både för utbildningsprogrammen och för deltagarna. Det blir kompetensutveckling på flera plan.
+<div style="overflow: auto;">
+<div style="max-width: 200px; float: left;">
+[FIGURE src=/image/personer/johannes-bjork.jpg?w=160&h=160&cf caption="Johannes Björk, CS Consultant, Aptean" class="left"]
+
+</div><div style="max-width: 200px; float: left;">
+[FIGURE src=/image/personer/joakim-olsson.jpg?w=160&h=160&cf&blur caption="Joakim Olsson, Software developer, Visma" class="left"]
+
+</div><div style="max-width: 200px; float: left;">
+[FIGURE src=/image/personer/jane-strandberg.jpg?w=160&h=160&cf caption="Jane Strandberg, Utvecklare, Prisjakt" class="left"]
+
+</div></div>
+<div style="overflow: auto;">
+<div style="max-width: 200px; float: left;">
+[FIGURE src=/image/personer/leopold-olsson.jpg?w=160&h=160&cf caption="Leopold Olsson, Software Developer, Cybercom" class="left"]
+
+</div><div style="max-width: 200px; float: left;">
+[FIGURE src=/image/personer/robin-singh.jpg?w=160&h=160&cf caption="Robin Singh, Webbutvecklare, Webhallen" class="left"]
+
+</div><div style="max-width: 200px; float: left;">
+[FIGURE src=/image/personer/jonatan-karlsson.png?w=160&h=160&cf&a=10,15,10,5 caption="Jonatan Karlsson, Software developer, Telia" class="left"]
+</div></div>
+
+Syftet är dels att göra en programutvärdering av programmen Webbprogrammering och kurspaketen där lärare, studenter och externa näringlivsrepresentanter samlas och diskuterar förbättringsmöjligheter och utmaningar. Samtidigt blir det en möjlighet till mingel och diskussion om relevanta och aktuella tekniker för webbprogrammerare och programvarutekniker.
+
+Sessionen är således utvecklade både för utbildningsprogrammen och för deltagarna. Det blir kompetensutveckling på flera plan. Välkomna att prata om tekniker kring webbprogrammering i synnerhet och utveckling i allmänhet, samtidigt gör du en god gärning genom att bidra till utvecklingen av utbildningsprogrammen.
 
 
 
@@ -163,8 +195,8 @@ Traditionell grill med förrätt, varmrätt, efterrätt och snacks.
 Under kvällen sker bland annat följande:
 
 * Utmanande tipspromenad.
-* [Prisutdelning i WM i Uptime 2017](blogg/vem-vinner-uptime-ligan).
-* Startskotten går för [WM i Arkadbyggeri 2018](https://dbwebb.se/t/642).
+* [Prisutdelning i WM i Uptime 2017](blogg/wm-i-uptime-2017-ar-nu-pa-upploppet).
+* Startskotten går för [WM i Arkadbyggeri 2018](https://dbwebb.se/t/6423).
 
 
 
@@ -173,7 +205,7 @@ Lördagen den 20:e maj - familjeutflykt {#utflykt}
 
 Utflykten pågår ungefär mellan 09-16. Plats för starten meddelas senare tillsammans med fler detaljer om dagen.
 
-Den årliga familjeutflykten som arrangeras av dbwebb's Foto- och Fritidsklubb. Det blir ett hemligt resmål och enklare vandring/promenad bland sevärdheter i omgivningarna. En dagsutflykt i (hav), skog och mark i all enkelhet. Ta med egen matsäck och kläder för väder.
+Den årliga familjeutflykten arrangeras av dbwebb's Foto- och Fritidsklubb. Det blir ett hemligt resmål som innebär enklare vandring/promenad bland sevärdheter och natur. En dagsutflykt i (hav), skog och mark i all enkelhet. Ta med egen matsäck och kläder för väder.
 
 Man kan ta sig fram gående, med cykel och med barnvagn. Det finns vägval som kan göra promenaden kortare eller längre.
 

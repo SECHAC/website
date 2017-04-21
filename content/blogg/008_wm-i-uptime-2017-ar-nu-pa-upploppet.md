@@ -116,5 +116,7 @@ Några ursäkter värda att nämna...
 
 WM = Webbprogrammerings-Mästare. Om det var oklart.
 
+Läs mer om [WM i Uptime 2017](blogg/vem-vinner-uptime-ligan).
+
 
 /staff-mos
