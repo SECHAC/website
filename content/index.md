@@ -1,6 +1,7 @@
 ---
 author: mos
 revision:
+    2017-05-10: (C, mos) Avbokade Jonas.
     2017-04-20: (B, mos) Programmet satt.
     2017-01-26: (A, mos) Inför GrillCon 2017 vår.
 
@@ -65,7 +66,7 @@ Nya och och gamla dbwebb:are, programvarutekniker och BTH-studenter delar med si
 
 
 
-### Seminarier 09-12 samt 13-16 {#sem}
+### Seminarier 09-12 {#sem1}
 
 [FIGURE src=/image/personer/anders-nygren.jpg?w=120&h=120&cf caption="Anders Nygren" class="right"]
 
@@ -83,14 +84,6 @@ Daniel har bland annat förkärlek för versionshanteringssystemet Git och komme
 
 
 
-[FIGURE src=/image/personer/johan-silvander.jpg?w=120&h=120&cf caption="Johan Silvander" class="right"]
-
-**[Johan Silvander](https://www.linkedin.com/in/johansilvander/)**, aka sillen, Civilingenjör EE LTH (1992), jobbar på Ericsson som senior specialist inom information manangement och är industridoktorand på BTH inom informationsmodellering.
-
-Johan kommer prata om hur de använde Python för att lösa en problemställning inom sitt forskningsprojekt. Det blev ett Python-skript som genererar Python-kod utifrån ett excelark och sedan exekverar sig självt. En spännande variant av hur man kan använda Python och ett "real-life" exempel.
-
-
-
 [FIGURE src=/image/personer/emil-folino.jpg?w=120&h=120&cf&a=15,40,40,20 caption="Emil Folino" class="right"]
 
 **[Emil Folino](https://www.linkedin.com/in/emil-folino-23a7002a/)**, aka efo, Civilingenjör i Medieteknik LiTH (2012), elitorienterare och numer dbwebbare.
@@ -99,6 +92,16 @@ Emil kommer prata om programmeringsspråket [Rust](https://www.rust-lang.org/en-
 
 
 
+[FIGURE src=/image/personer/johan-silvander.jpg?w=120&h=120&cf caption="Johan Silvander" class="right"]
+
+**[Johan Silvander](https://www.linkedin.com/in/johansilvander/)**, aka sillen, Civilingenjör EE LTH (1992), jobbar på Ericsson som senior specialist inom information manangement och är industridoktorand på BTH inom informationsmodellering.
+
+Johan kommer prata om hur de använde Python för att lösa en problemställning inom sitt forskningsprojekt. Det blev ett Python-skript som genererar Python-kod utifrån ett excelark och sedan exekverar sig självt. En spännande variant av hur man kan använda Python och ett "real-life" exempel.
+
+
+
+### Seminarier 13-16 {#sem2}
+
 [FIGURE src=/image/personer/nils-widmark.jpg?w=120&h=120&cf&a=10,20,20,10 caption="Nils Widmark" class="right"]
 
 **[Nils Widmark](https://www.linkedin.com/in/nils-widmark-7115a18/)**, Civilingenjör i Industriell Ekonomi och Management BTH (2007), grunderare av [New Minds](http://newminds.se/) som fokuserar på att matcha unga ingenjörer med blivande arbetsgivare.
@@ -106,13 +109,13 @@ Emil kommer prata om programmeringsspråket [Rust](https://www.rust-lang.org/en-
 Nu återvänder Nils till sin gamla skola, där han bland annat hade mos i ett grupprojekt. Nils tänker reflektera  tillbaka på sin studietid, hur det var på BTH och att sen komma ut i arbetslivet och starta egna företag. Nils har i sin nuvarande roll som företagare och arbetgivare till ingenjörer, en mycket god insikt i vad som krävs i arbetslivet och vilka teknikförmågor som efterfrågas.
 
 
-
+<!--
 [FIGURE src=/image/personer/jonas-erlandsson.png?w=120&h=120&cf&a=0,0,10,0 caption="Jonas Erlandsson" class="right"]
 
 **[Jonas Erlandsson](https://www.linkedin.com/in/jonas-erlandsson-72916177/)**, aka rocky, läste kurspaket på dbwebb och jobbar som [teamledare på SiteDirect](http://www.sitedirect.se/sitedirect-jonas-erlandsson) inom ehandel i Växjö och anställer webbprogrammerare.
 
 När nu Jonas kommer tillbaka till sin gamla skola vill han prata om att våga lära att ta emot hjälp och hitta nya perspektiv för att kunna bli mer öppen och mottaglig för att utvecklas som utvecklare istället för att låsa in sig i sina egna lösningar och idéer. Allt för att lära sig och snabbare bli en mer kvalificerad utvecklare. Kanske delar han även med sig om inside information om det senaste inom ehandel.
-
+-->
 
 
 [FIGURE src=https://dbwebb.se/image/vimmel/pt91-skolfoto.jpg?w=120&h=120&cf&a=8,38,76,52 caption="Daniel Häggander" class="right"]
@@ -120,6 +123,10 @@ När nu Jonas kommer tillbaka till sin gamla skola vill han prata om att våga l
 **Daniel Häggander**, aka pt91dh, läste programvaruteknik (PT91), vann SM i programmering, doktorerade i multiprocessorarkitekturer, skapade eget konsultbolag [HLL](http://www.hll.se/) och jobbar med produktuveckling på Ericsson.
 
 Bilden till höger är från Daniels gamla klassfoto och man undrar om han då visste vad som komma skulle. Nu ett antal år senare har Daniel en hel del erfarenhet och vi tar gärna del av den då han kommer och pratar om "Tio tips från Daniel", i all sin enkelhet.
+
+Blir det tid över så är diverse mingel en bra sysselsättning.
+
+De som vill hänger med på kvällsktiviteten som är barhäng och kanske en matbit inne i stan.
 
 
 
