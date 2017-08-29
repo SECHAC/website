@@ -1,6 +1,8 @@
 ---
-author: mos
+author:
+    - mos
 revision:
+    2017-08-29: (D, mos) La till grillcon 2017 vår.
     2017-01-26: (C, mos) La till grillcon 2016 höst.
     2016-09-04: (B, mos) La till grillcon 2016 vår.
     2016-04-13: (A, mos) Första versionen.
@@ -23,6 +25,8 @@ Länka till information om genomförda GrillCons.
 
 Pre- GrillCons
 ------------------------
+
+* Anmälan till [GrillCon 2017 Vår](arkiv/grillcon-2017-var)
 
 * Anmälan till [GrillCon 2016 Höst](arkiv/grillcon-2016-host)
 
