@@ -36,7 +36,7 @@ Det är dags för höstens GrillCon som går av stapeln mellan torsdagen den 14:
 
 Nytt för hösten är vår egen variant av Hackathon som pågår mellan torsdagen och fredags lunch.
 
-Vi får fina besök av Prisjakt och Tomten som håller föredrag på fredagseftermiddagen, som en fin start på grillkvällen som startar som vanligt klockan 17 då grillen tänds.
+Vi får fina besök av Prisjakt och Tomten som håller föredrag på fredagseftermiddagen, en fin start på grillkvällen som startar klockan 17 då grillen tänds.
 
 Det ryktas att Foto- och Fritidsklubben planerar för en lördagsutflykt även denna gång.
 
