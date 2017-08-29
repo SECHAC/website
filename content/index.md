@@ -47,7 +47,7 @@ Det ryktas att Foto- och Fritidsklubben planerar för en lördagsutflykt även d
 
 Det övergripande schemat ser ut så här.
 
-| Dag          | Tid   | Whats up?                          |
+| Dag          | Tid   | Vad händer?                        |
 |--------------|-------|------------------------------------|
 | Torsdag 14/9 | 09-10 | Samling inför Hackathon            |
 |              | 10-20 | Hackathon                          |
