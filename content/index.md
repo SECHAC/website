@@ -130,7 +130,7 @@ Under kvällen sker bland annat följande:
 Utflykt med Foto- och Fritidsklubben {#utflykt}
 --------------------------------
 
-[FIGURE src=image/fotoklubben/aspo-2017-var.jpg?w=720&h=240&cf&a=30,0,0,0,0&f0=colorize,40,0,0,0 caption="Vårutflykten gick till Aspö."]
+[FIGURE src=image/fotoklubben/aspo-2017-var_1600.jpg?w=720&h=240&cf&a=30,0,0,0,0&f0=colorize,40,0,0,0 caption="Vårutflykten gick till Aspö."]
 
 Utflykten pågår ungefär mellan 09-14. Plats för starten meddelas senare tillsammans med fler detaljer om dagen.
 
