@@ -2,6 +2,7 @@
 author:
     - mos
 revision:
+    2017-08-30: (B, mos) Laeffe sponsor Hackathon.
     2017-08-29: (A, mos) Inför GrillCon 2017 höst.
 
 views:

@@ -46,7 +46,7 @@ Föreläsarna ställer upp Pro Bono. Ett stort tack till dem!
 
 Eva Pettersson (vicerektor) på BTH Utbildning sponsrar som vanligt grillen, inklusive fredagsfrukosten. Här har budgeten varit 3 kSEK sedan tidernas begynnelse.
 
-Lasse Lundberg på BTH institutionen DIDD där dbwebb-teamet är lokaliserade ska få äran att sponsra badges med tillhörande lina. Jag ska bara berätta det för honom. Det kostar mindre än 1 kSEK.
+Lasse Lundberg på BTH institutionen DIDD där dbwebb-teamet är lokaliserade ska få äran att sponsra badges med tillhörande paracord. Jag ska bara berätta det för honom. Det kostar mindre än 1 kSEK.
 
 Laeffe, gammal BTH student Civ PT, aktiv i studentföreningen SIS och numer företagare på [Projektkoll Sverige AB](https://www.projektkoll.nu/) sponsrar Hackathonet med ramlösa, färsk och torkad frukt samt osaltade/osötade nötter motsvarande 1 kSEK. 
 
