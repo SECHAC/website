@@ -51,12 +51,12 @@ Det övergripande schemat ser ut så här.
 |--------------|-------|------------------------------------|
 | Torsdag 14/9 | 09-10 | Samling inför Hackathon            |
 |              | 10-20 | Hackathon                          |
-| Fredag 19/5  | 09-10 | Hackathon frukost                  |
+| Fredag 15/9  | 09-10 | Hackathon frukost                  |
 |              | 10-12 | Hackathon (avslut)                 |
 |              | 13-15 | Prisjakt seminarier med frågestund |
 |              | 15-16 | Tomten seminarie om webbsäkerhet   |
 |              | 17-   | Traditionell Grill                 |
-| Lördag 20/5  | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
+| Lördag 16/9  | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
 
 Läs vidare för mer information.
 
