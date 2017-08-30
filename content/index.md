@@ -75,6 +75,8 @@ För min egen del så funderar jag om det blir ramverket Anax som får en insats
 
 Hackathon i vår mening är att samlas och dedikera tiden till kodning. Vilken härlig frihetskänsla, inga måsten, bara kodande.
 
+Årets sponsor till Hackathonet är Leaffe som bidrar med kolsyrat vatten, färsk och torkad frukt samt osaltade/osötade nötter. Allt för att hålla produktiviteten på en hälsosamt hög nivå. Laeffe är alumni BTH student från Civ PT, aktiv i studentföreningen SIS och numer företagare på konsultföretaget [Projektkoll Sverige AB](https://www.projektkoll.nu/). Laeffe tänker även delta i Hackathonet så vi ser honom där.
+
 
 
 Prisjakt: React, Redux och Machine Learning + panel {#prisjakt}
@@ -101,7 +103,7 @@ Thomas gick ut programmet IT-säkerhet 2009 och har sedan dess jobbat med säker
 
 Vilka skrämmande saker kan han tänkas berätta för oss?
 
-För övrigt är Thomas en stabil dbwebb-innebandyspelare som sponsrat innebandy-gänget med en sjukvårdslåda, det tackar vi för. Thomas är också admin på irc-servern sedan många år tillbaka i tiden. Bra saker i en CV.
+För övrigt är Thomas en stabil dbwebb-innebandyspelare som sponsrat innebandy-gänget med en sjukvårdslåda, det tackar vi för. Thomas är också admin på irc-servern sedan många år tillbaka i tiden. Bra saker att ha i ett CV.
 
 
 

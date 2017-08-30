@@ -22,14 +22,6 @@ Inget är säkert, men vi måste nog leva upp till förväntningarna, vårens ba
 
 
 
-####Pro Bono
-
-Föreläsarna ställer upp Pro Bono. Ett stort tack till dem!
-
-BTH sponsrar grillen. Det är vi tacksamma för.
-
-
-
 ####Om GrillCon
 
 GrillCon är en mötesplats för nya och gamla studenter samt deras arbetsgivare.
@@ -44,11 +36,35 @@ GrillCon är en möjlighet att mingla och skapa kontakter med riktigt duktiga (w
 
 
 
+####Pro Bono
+
+Föreläsarna ställer upp Pro Bono. Ett stort tack till dem!
+
+
+
+####Sponsorer
+
+Eva Pettersson (vicerektor) på BTH Utbildning sponsrar som vanligt grillen, inklusive fredagsfrukosten. Här har budgeten varit 3 kSEK sedan tidernas begynnelse.
+
+Lasse Lundberg på BTH institutionen DIDD där dbwebb-teamet är lokaliserade ska få äran att sponsra badges med tillhörande lina. Jag ska bara berätta det för honom. Det kostar mindre än 1 kSEK.
+
+Laeffe, gammal BTH student Civ PT, aktiv i studentföreningen SIS och numer företagare på [Projektkoll Sverige AB](https://www.projektkoll.nu/) sponsrar Hackathonet med ramlösa, färsk och torkad frukt samt osaltade/osötade nötter motsvarande 1 kSEK. 
+
+
+
+####Att bli sponsor
+
+Det finns egentligen ingen budget till GrillCon, vi har inga direkta kostnader och ingen större ambition att öka inblandningen av pengar i arrangemanget. Men i vissa fall kan sponsring tillföra ett trivselvärde som gynnar oss alla som vill delta.
+
+Vill du sponsra och delta så finns olika varianter, stäm av med mos och försök finna något som passar både GrillCon och ert syfte med sponsringen.
+
+
+
 ####Föreläs
 
 Hör av dit till mos om du vill föreläsa på en GrillCon. Vi har GrillCon i september och maj.
 
-Som föreläsare har du även möjliget att "ställa ut" i form av rollup och liknande. Stäm av med mos.
+Som föreläsare har du även möjliget att "ställa ut" eller göra dig mer synlig. Eller bara mingla runt. Stäm av med mos.
 
 
 
