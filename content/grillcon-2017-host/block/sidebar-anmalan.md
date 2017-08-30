@@ -48,6 +48,8 @@ Eva Pettersson (vicerektor) på BTH Utbildning sponsrar som vanligt grillen, ink
 
 Lasse Lundberg på BTH institutionen DIDD där dbwebb-teamet är lokaliserade ska få äran att sponsra badges med tillhörande paracord. Jag ska bara berätta det för honom. Det kostar mindre än 1 kSEK.
 
+Oklart vem som sponsrar med själva grillvagnen i år, ska kolla med SIS som hjälpte oss i våras.
+
 Laeffe, gammal BTH student Civ PT, aktiv i studentföreningen SIS och numer företagare på [Projektkoll Sverige AB](https://www.projektkoll.nu/) sponsrar Hackathonet med ramlösa, färsk och torkad frukt samt osaltade/osötade nötter motsvarande 1 kSEK. 
 
 
