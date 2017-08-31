@@ -76,6 +76,8 @@ För min egen del så funderar jag om det blir ramverket Anax som får en insats
 
 Hackathon i vår mening är att samlas och dedikera tiden till kodning. Vilken härlig frihetskänsla, inga måsten, bara kodande.
 
+Vill du delta i hackathonet men hacka på dina skoluppgifter och kmom så går det strålande bra. 
+
 Årets sponsor till Hackathonet är Lars Ollén, aka Laeffe, som bidrar med kolsyrat vatten, färsk och torkad frukt samt osaltade/osötade nötter. Allt för att hålla produktiviteten på en hälsosamt hög nivå. Laeffe är alumni BTH student från Civ PT, aktiv i studentföreningen SIS och numer företagare på konsultföretaget [Projektkoll Sverige AB](https://www.projektkoll.nu/). Lars tänker även delta i Hackathonet så vi ser honom där.
 
 
