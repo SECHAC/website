@@ -49,7 +49,7 @@ Lasse Lundberg på BTH institutionen DIDD där dbwebb-teamet är lokaliserade sk
 
 Oklart vem som sponsrar med själva grillvagnen i år, ska kolla med SIS som hjälpte oss i våras.
 
-Laeffe, gammal BTH student Civ PT, aktiv i studentföreningen SIS och numer företagare på [Projektkoll Sverige AB](https://www.projektkoll.nu/) sponsrar Hackathonet med ramlösa, färsk och torkad frukt samt osaltade/osötade nötter motsvarande 1 kSEK. 
+Lars Ollén, aka Laeffe, gammal BTH student Civ PT, aktiv i studentföreningen SIS och numer företagare på [Projektkoll Sverige AB](https://www.projektkoll.nu/) sponsrar Hackathonet med ramlösa, färsk och torkad frukt samt osaltade/osötade nötter motsvarande 1 kSEK. 
 
 
 
