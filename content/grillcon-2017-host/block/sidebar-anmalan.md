@@ -1,15 +1,14 @@
-####Anmäl dig SNART!
+####Anmäl dig NU!
 
-<!--
-[Lös biljett genom att anmäla dig](https://goo.gl/Cw0wxl) och kvalificera dig för (minst) en GrillCon badge.
--->
+[Lös biljett genom att anmäla dig](https://goo.gl/EVrmg1) och kvalificera dig för GrillCon badges.
 
 Alla nya och gamla dbwebb- och programvarutekniker-studenter är som vanligt välkomna och kvalificerade för att lösa biljett. 
 
 Är du inte kvalificerad för biljett men vill ändå delta? Maila mos och fråga.
 
+<!--
 Anmälan öppnar inom kort.
-
+-->
 
 
 ####GrillCon Badge
