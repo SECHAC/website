@@ -102,7 +102,7 @@ Tomten: Webbsäkerhet - en kraschkurs {#tomten}
 
 Vi får ytterligare finbesök då [Thomas Marcks Von Würtemberg, aka tomten](https://www.linkedin.com/in/thomas-marcks-von-w%C3%BCrtemberg-968392132/), kommer och gästar oss och håller ett seminarie om hans specialitet inom säkerhet.
 
-Thomas gick ut programmet IT-säkerhet 2009 och har sedan dess jobbat med säkerhetsfrågor, både professionellt och som sitt fritidsintresse. Thomas har tagit ledigt från sitt jobb som säkerhetskonsult på NCC Group i Manchester, England och kommer hit till oss för att grilla korv och hålla ett seminarie med titeln "Webbsäkerhet - En krashkurs".
+Thomas gick ut programmet IT-säkerhet 2009 och har sedan dess jobbat med säkerhetsfrågor, både professionellt och som sitt fritidsintresse. Thomas har tagit ledigt från sitt jobb som säkerhetskonsult på NCC Group i Leatherhead, England och kommer hit till oss för att grilla korv och hålla ett seminarie med titeln "Webbsäkerhet - En krashkurs".
 
 Vilka skrämmande saker kan han tänkas berätta för oss?
 
