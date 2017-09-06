@@ -85,7 +85,7 @@ Vill du delta i hackathonet men hacka på dina skoluppgifter och kmom så går d
 Prisjakt kommer på besök {#prisjakt}
 --------------------------------
 
-[FIGURE src=image/personer/maria-hall.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Maria Hall" class="right"]
+[FIGURE src=image/personer/maria-hall.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Maria" class="right"]
 
 Maria Hall, CTO (Chief Technology Officer), teknikchef på ren svenska, kommer med några av sina pålitliga medarbetare och gästar oss under fredagseftermiddagen och korvgrillningen.
 
@@ -100,7 +100,7 @@ Vad kan jag säga, vilket erbjudande!
 Prisjakt-Mattias: React och Redux {#mattias}
 --------------------------------
 
-[FIGURE src=image/personer/mattias-lyckne.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Prisjakt-Mattias" class="right"]
+[FIGURE src=image/personer/mattias-lyckne.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Mattias" class="right"]
 
 Först ut är Mattias Lyckne med en presentation i det heta området React och Redux.
 
@@ -115,7 +115,14 @@ Prisjakt-Emanuel & Henrik: Machine Learning {#emanuelhenrik}
 
 Emanuel och Henrik håller presentationen om Machine Learning.
 
+<div style="overflow: auto;">
+[FIGURE src=image/personer/emanuel-johansson.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Emanuel" class="right"]
+
 Emanuel gick ut från Teknisk Fysik på KTH 2006 och började karriären inom embedded-mjukvara. Därifrån blev det mer och mer machine learning och bildbehandling. Han har bland annat jobbat med bildbehandling och bildigenkänning på värmekameror för övervakning, samt machine learning och statistik för automatiska väderprognoser i Nya Zeeland. 
+
+</div>
+
+[FIGURE src=image/personer/henrik-ohman.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Henrik" class="right"]
 
 Henrik gick tre år på Fysikerprogrammet på Uppsala universitet men pausade studierna för att arbeta som mjukvaruutvecklare. Tio år senare återvände han till fysiken och disputerade i elementarpartikelfysik vid ATLAS-experimentet på CERN och Uppsala universitet 2016. Hans intresse för machine learning väcktes genom forskningen, där tekniken används för att urskilja små signaler bland en stor mängd bakgrund. 
 
