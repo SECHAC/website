@@ -82,16 +82,44 @@ Vill du delta i hackathonet men hacka på dina skoluppgifter och kmom så går d
 
 
 
-Prisjakt: React, Redux och Machine Learning + panel {#prisjakt}
+Prisjakt kommer på besök {#prisjakt}
 --------------------------------
 
-Maria Hall, CTO (Chief Technology Officer), teknikchef på ren svenska, kommer med några av sina pålitliga medarbetare i form av Mattias och Johan och gästar oss under fredagseftermiddagen.
+[FIGURE src=image/personer/maria-hall.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Maria Hall" class="right"]
 
-Maria har utlovat seminarier om React och Redux samt om deras projekt inom machine learning.
+Maria Hall, CTO (Chief Technology Officer), teknikchef på ren svenska, kommer med några av sina pålitliga medarbetare och gästar oss under fredagseftermiddagen och korvgrillningen.
 
-Tanken är att vi avslutar sessionen med en frågestund/panel där vi kan ställa frågor till Maria, Mattias och Johan för att höra vilka krav som ställs på webbprogrammerare utanför skolvärlden.
+Maria har utlovat seminarier om React och Redux samt om deras projekt inom Machine Learning.
+
+Tanken är att vi avslutar sessionen med en frågestund/panel där vi kan ställa frågor till gänget från Prisjakt för att höra vilka krav som ställs på webbprogrammerare utanför skolvärlden.
 
 Vad kan jag säga, vilket erbjudande!
+
+
+
+Prisjakt-Mattias: React och Redux {#mattias}
+--------------------------------
+
+[FIGURE src=image/personer/mattias-lyckne.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Prisjakt-Mattias" class="right"]
+
+Först ut är Mattias Lyckne med en presentation i det heta området React och Redux.
+
+Mattias gick ut Web, Internet och Programvaruteknik vid BTH 2013 (_numer heter programmet Webbprogrammering_). Efter det gick flytlasset till Skellefteå för att jobba på en liten byrå med webb- och iOS-utveckling. 2015 blev det Prisjakt där han nu jobbar som utvecklare med både backend och frontend.
+
+Mattias kommer tillbaka till BTH för att prata främst om React och Redux men även lite andra verktyg som kan tänkas behövas. Grunderna presenteras och sen studeras en liten applikation som bryts ned till mindre delar och görs små förbättringar i. Mattias går igenom allt från hur en React-komponent ser ut och vad Redux hjälper oss med till hur vi testar vår kod. Förhoppningsvis går vi alla därifrån sugna på att börja bygga saker i React.
+
+
+
+Prisjakt-Emanuel & Henrik: Machine Learning {#emanuelhenrik}
+--------------------------------
+
+Emanuel och Henrik håller presentationen om Machine Learning.
+
+Emanuel gick ut från Teknisk Fysik på KTH 2006 och började karriären inom embedded-mjukvara. Därifrån blev det mer och mer machine learning och bildbehandling. Han har bland annat jobbat med bildbehandling och bildigenkänning på värmekameror för övervakning, samt machine learning och statistik för automatiska väderprognoser i Nya Zeeland. 
+
+Henrik gick tre år på Fysikerprogrammet på Uppsala universitet men pausade studierna för att arbeta som mjukvaruutvecklare. Tio år senare återvände han till fysiken och disputerade i elementarpartikelfysik vid ATLAS-experimentet på CERN och Uppsala universitet 2016. Hans intresse för machine learning väcktes genom forskningen, där tekniken används för att urskilja små signaler bland en stor mängd bakgrund. 
+
+Nu på Prisjakt har Emanuel och Henrik tillsammans fått möjligheten att starta upp en helt ny machine learning-grupp som än så länge har fokuserat på textanalys i samband med sortering av Prisjakts alla inkommande produkter vilket kommer att vara en stor del av ämnet för presentationen.
 
 
 
