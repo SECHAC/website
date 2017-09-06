@@ -113,7 +113,7 @@ Mattias kommer tillbaka till BTH för att prata främst om React och Redux men �
 Prisjakt-Emanuel & Henrik: Machine Learning {#emanuelhenrik}
 --------------------------------
 
-Emanuel och Henrik håller presentationen om Machine Learning.
+Emanuel och Henrik håller presentationen om Machine Learning och delar med sig om erfarenheter från ett nystartat Prisjakt-projekt.
 
 <div style="overflow: auto;">
 [FIGURE src=image/personer/emanuel-johansson.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Emanuel" class="right"]
