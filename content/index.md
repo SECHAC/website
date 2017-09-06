@@ -133,7 +133,7 @@ Nu på Prisjakt har Emanuel och Henrik tillsammans fått möjligheten att starta
 Tomten: Webbsäkerhet - en kraschkurs {#tomten}
 --------------------------------
 
-[FIGURE src=image/personer/tomten.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Thomas aka tomten" class="right"]
+[FIGURE src=image/personer/tomten.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Thomas" class="right"]
 
 Vi får ytterligare finbesök då [Thomas Marcks Von Würtemberg, aka tomten](https://www.linkedin.com/in/thomas-marcks-von-w%C3%BCrtemberg-968392132/), kommer och gästar oss och håller ett seminarie om hans specialitet inom säkerhet.
 
