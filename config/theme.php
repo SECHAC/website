@@ -42,7 +42,7 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "GrillCon",
-                "siteLogoTextIcon" => "img/logo/grillcon_logo_39x40.png",
+                "siteLogoTextIcon" => "img/logo/grillcon_logo_40x40.png",
                 "siteLogoTextIconAlt" => "Liten logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
