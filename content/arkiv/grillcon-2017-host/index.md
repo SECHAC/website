@@ -2,7 +2,8 @@
 author:
     - mos
 revision:
-    "2018-03-29": (A, mos) Inför GrillCon 2018 vår.
+    2017-08-30: (B, mos) Laeffe sponsor Hackathon.
+    2017-08-29: (A, mos) Inför GrillCon 2017 höst.
 
 views:
 
@@ -12,7 +13,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2018-var/block/flash
+                route: grillcon-2017-host/block/flash
 
     share-this:
         region: main
@@ -26,13 +27,21 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2018-var/block/sidebar-anmalan
+                route: grillcon-2017-host/block/sidebar-anmalan
 
 ...
-GrillCon 2018 Vår - Hackathon och seminarier
+GrillCon 2017 Höst - Hackathon och seminarier
 ===============================
 
-Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
+Det är dags för höstens GrillCon som går av stapeln mellan torsdagen den 14:e september till lördagen den 16:e september 2017.
+
+Nytt för hösten är vår egen variant av Hackathon som pågår mellan torsdagen och fredags lunch.
+
+Vi får fina besök av Prisjakt och Tomten som håller föredrag på fredagseftermiddagen, en fin start på grillkvällen som startar klockan 17 då grillen tänds.
+
+Det ryktas att Foto- och Fritidsklubben planerar för en lördagsutflykt även denna gång.
+
+
 
 Övergripande schema och aktiviteter {#oversikt}
 --------------------------------
@@ -40,23 +49,18 @@ Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
 Det övergripande schemat ser ut så här.
 
 | Dag          | Tid   | Vad händer?                        |
-|--------------|:-----:|------------------------------------|
-| Torsdag      | 09-10 | Samling inför Hackathon            |
-|              | 10-17 | Hackathon                          |
-|              | 18-   | The Fox & Anchor, med eller utan karaoke |
-| Fredag       | 09-10 | Hackathon frukost                  |
-|              | 10-12 | Seminarier, presentationer, runda bordssamtal |
-|              | 13-15 | Seminarier, presentationer, runda bordssamtal |
-|              | 15-17 | Samtal, fika och allmänt häng, ev öppen kårpub  |
-|              | 17-   | Traditionell Grill med aktiviteter |
-|              | 17-23 | Kårpuben håller extra öppet för GrillCon gäster |
-| Lördag       | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
-
-Mer info kommer.
-
-<!--
+|--------------|-------|------------------------------------|
+| Torsdag 14/9 | 09-10 | Samling inför Hackathon            |
+|              | 10-20 | Hackathon                          |
+| Fredag 15/9  | 09-10 | Hackathon frukost                  |
+|              | 10-12 | Hackathon (avslut)                 |
+|              | 13-15 | Prisjakt seminarier med frågestund |
+|              | 15-16 | Tomten seminarie om webbsäkerhet   |
+|              | 17-   | Traditionell Grill                 |
+| Lördag 16/9  | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
 
 Läs vidare för mer information.
+
 
 
 Hackathon {#hackathon}
@@ -156,17 +160,13 @@ Under kvällen sker bland annat följande:
 * Statusuppdatering för WM i Arkadbyggeri 2018.
 * Startskott för WM i Uptime 2017/2018.
 
-
--->
-
 <!--
 * Statusuppdatering för [WM i Arkadbyggeri 2018](blogg/wm-i-arkadbyggeri-2018).
 * Startskott för [WM i Uptime 2017/2018](blogg/wm-i-uptime-2018).
 -->
 
 
-<!--
-    
+
 Utflykt med Foto- och Fritidsklubben {#utflykt}
 --------------------------------
 
@@ -179,6 +179,3 @@ Utflykten arrangeras av dbwebb's Foto- och Fritidsklubb. Det blir ett hemligt re
 Ta gärna med en kompis.
 
 I våras gick utflykten till Aspö.
-
-
--->

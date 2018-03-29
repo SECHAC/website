@@ -26,6 +26,8 @@ Länka till information om genomförda GrillCons.
 Pre- GrillCons
 ------------------------
 
+* Anmälan till [GrillCon 2017 Höst](arkiv/grillcon-2017-host)
+
 * Anmälan till [GrillCon 2017 Vår](arkiv/grillcon-2017-var)
 
 * Anmälan till [GrillCon 2016 Höst](arkiv/grillcon-2016-host)
