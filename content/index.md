@@ -45,14 +45,70 @@ Det övergripande schemat ser ut så här.
 |              | 10-17 | Hackathon                          |
 |              | 18-   | The Fox & Anchor, med eller utan karaoke |
 | Fredag       | 09-10 | Hackathon frukost                  |
-|              | 10-12 | Seminarier, presentationer, runda bordssamtal |
-|              | 13-15 | Seminarier, presentationer, runda bordssamtal |
+|              | 10-15 | Konferens med seminarier, presentationer, runda bordssamtal |
 |              | 15-17 | Samtal, fika och allmänt häng, ev öppen kårpub  |
 |              | 17-   | Traditionell Grill med aktiviteter |
 |              | 17-23 | Kårpuben håller extra öppet för GrillCon gäster |
 | Lördag       | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
 
 Mer info kommer.
+
+
+
+Hackathon {#hackathon}
+--------------------------------
+
+Möte den 18/4 för att bestämma fokus på hackathonet.
+
+<!--
+
+11
+* foiki
+
+14
+* maria s
+
+15
+* 
+
+(petter, niclas, maria)
+(msv)
+larsson (daniel)
+
+
+-->
+
+
+
+Konferens och Seminarier {#konferens}
+--------------------------------
+
+Tid 10-12, 13-15. Sal J1640.
+
+<!--
+
+Ta med en kompis fredagen.
+
+10
+* Skalle 30min (ncurses?)
+* Ceruza (docker), (daniel)
+* Bobbzorzen (?)
+* foiki ()
+
+* session med exjobbare? 5minutare?
+
+13 fekberg C#
+14 Paneldebatt
+    (wasa, pansar)
+
+city cloud (docker, kubinette, ip-lastbalansering)?
+häggander, larsson
+
+(petter, niclas, maria)
+
+-->
+
+
 
 <!--
 
