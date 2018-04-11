@@ -1,9 +1,4 @@
 ---
-author:
-    - mos
-revision:
-    "2018-03-29": (A, mos) Inför GrillCon 2018 vår.
-
 views:
 
     flash:
@@ -28,11 +23,17 @@ views:
                 type: content
                 route: grillcon-2018-var/block/sidebar-anmalan
 
+author:
+    - mos
+revision:
+    "2018-03-29": (A, mos) Inför GrillCon 2018 vår.
 ...
 GrillCon 2018 Vår - Hackathon och seminarier
 ===============================
 
 Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
+
+
 
 Övergripande schema och aktiviteter {#oversikt}
 --------------------------------
