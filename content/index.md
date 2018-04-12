@@ -62,6 +62,48 @@ Hackathon {#hackathon}
 Möte den 18/4 för att bestämma fokus på hackathonet.
 
 <!--
+Agenda.
+
+1. Den stora planen (hur GrillCon nu skall växa)
+    * Hur höst och våreventet skall fungera framöver.
+    * Planering med 2-3 events rullande cykel (aktiv backlogg, levande grupper).
+1. Vårens GrillCon och schemat (informera, saker att planera)
+    * Hackathonet
+    * KOnferensen
+    * grillen
+    * Utflykten
+2. Organisation
+    * (Daniels lista)
+3. Manifest
+
+-->
+
+
+
+### Team XXX {#ht1}
+
+Team med visst fokus under hackathonet, med mål att bli klar innan kvällen.
+
+
+
+### Pres 11:00  {#h11}
+
+
+
+### Pres 14:00  {#h14}
+
+
+
+### Pres 15:00 Micro-optimeringar {#h15}
+
+
+
+
+<!--
+
+Kort ord för presentationerna.
+
+Coding kata
 
 11
 * foiki
@@ -85,6 +127,42 @@ Konferens och Seminarier {#konferens}
 --------------------------------
 
 Tid 10-12, 13-15. Sal J1640.
+
+<!-- tuta o klocka -->
+
+
+
+### 10:00 Eiffel, build pipeline, docker {#10}
+
+Magnus (ceruza) Aronsson
+
+
+
+### 11:00 Teknologi-snick-snack {#11}
+
+Korta 3/6 minuters presentation följt av frågor (600)
+
+https://sv.wikipedia.org/wiki/Pecha_kucha 20 x 20.
+
+<!-- pansar om arkadbygge -->
+
+
+
+### 13:00 C# {#13}
+
+Filip Ekberg
+
+
+
+### 14:00 C# {#14}
+
+Att bestämmas.
+
+<!--
+Prel. foiki, skalle?
+Alt. Maria eller paneldebatt
+-->
+
 
 <!--
 
