@@ -33,6 +33,8 @@ GrillCon 2018 Vår - Hackathon och seminarier
 
 Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
 
+Det blir Hackathon följt av barhäng, Konferens med seminarier, Grill med aktiviteter samt Utflykt. 
+
 
 
 Övergripande schema och aktiviteter {#oversikt}
@@ -46,7 +48,7 @@ Det övergripande schemat ser ut så här.
 |              | 10-17 | Hackathon                          |
 |              | 18-   | The Fox & Anchor, med eller utan karaoke |
 | Fredag       | 09-10 | Hackathon frukost                  |
-|              | 10-15 | Konferens med seminarier, presentationer, runda bordssamtal |
+|              | 10-15 | Konferens med seminarier och presentationer |
 |              | 15-17 | Samtal, fika och allmänt häng, ev öppen kårpub  |
 |              | 17-   | Traditionell Grill med aktiviteter |
 |              | 17-23 | Kårpuben håller extra öppet för GrillCon gäster |
@@ -60,6 +62,14 @@ Hackathon {#hackathon}
 --------------------------------
 
 Möte den 18/4 för att bestämma fokus på hackathonet.
+
+Tanken är att det blir vissa team-aktiviteter där en teamledare bestämmer fokus och de som hänger på jobbar på samma typ av aktivitet under dagen. Tanken är att alla team lyckas komma till ett avslut innan dagen är slut.
+
+Ett exempel kan vara ett team som sysslar med att programmera spel för webbläsaren med JavaScript och grafik i canvas.
+
+Under dagen finns det korta 10-15 minuters presentationer som hålls klockan 11, 14 och 15 i en av salarna.
+
+Ta möjligheten att dedikera dagen för att koda loss på ett av dina egna personliga projekt. Hojta gärna till om du kan tänka dig att leda ett team med specifikt fokus. Du bestämmer själv fokuset.
 
 <!--
 Agenda.
@@ -79,6 +89,7 @@ Agenda.
 -->
 
 
+<!--
 
 ### Team XXX {#ht1}
 
@@ -97,6 +108,7 @@ Team med visst fokus under hackathonet, med mål att bli klar innan kvällen.
 ### Pres 15:00 Micro-optimeringar {#h15}
 
 
+-->
 
 
 <!--
@@ -126,23 +138,30 @@ larsson (daniel)
 Konferens och Seminarier {#konferens}
 --------------------------------
 
-Tid 10-12, 13-15. Sal J1640.
+Plats: Sal J1640.
+
+Konferensdelen pågår 10-15 med paus för lunch klockan 12-13.Tid 10-12, 13-15. Det blir en blandning av presentationer och hör av dig till organisatörerna om du är sugen på att håll aen presentation.
+
 
 <!-- tuta o klocka -->
+
+Följande är ett preliminärt schema för seminarierna.
 
 
 
 ### 10:00 Eiffel, build pipeline, docker {#10}
 
-Magnus (ceruza) Aronsson
+[FIGURE src=image/personer/magnus-aronsson.jpg?w=120&h=120&cf caption="Magnus" class="right"]
+
+Magnus (ceruza) Aronsson ([LinkedIn](https://www.linkedin.com/in/magnus-aronsson-26447812b/))
 
 
 
 ### 11:00 Teknologi-snick-snack {#11}
 
-Korta 3/6 minuters presentation följt av frågor (600)
+Tanken är kort-korta presentationer som följer en gemensam form likt [Pecha kucha](https://sv.wikipedia.org/wiki/Pecha_kucha). Om vi efterliknar pecha kucha upplägget så gäller 20 slides á 20 sekunder (6 minuter och 40 sekunder) följt av frågor, efter 10 minuter är det nästa talare.
 
-https://sv.wikipedia.org/wiki/Pecha_kucha 20 x 20.
+Gongongen ringer högt när tiden gått ut.
 
 <!-- pansar om arkadbygge -->
 
@@ -150,13 +169,18 @@ https://sv.wikipedia.org/wiki/Pecha_kucha 20 x 20.
 
 ### 13:00 C# {#13}
 
-Filip Ekberg
+[FIGURE src=image/personer/filip-ekberg.jpg??w=120&h=120&cf&a=25,25,10,12 caption="Filip" class="right"]
+
+Filip Ekberg är egen konsult på fekberg AB och författare till boken C# Smorgasbord.
+
+Läs mer om Filip på [LinkedIn](https://www.linkedin.com/in/filipekberg/) eller i dbwebb-artikeln "[Fråga Filip Ekberg om livet som egenkonsult](https://dbwebb.se/blogg/fraga-filip-ekberg-om-livet-som-egenkonsult)".
 
 
 
-### 14:00 C# {#14}
+### 14:00 Seminarier {#14}
 
-Att bestämmas.
+Att bestämmas, 2 korta seminarier om 25 minuter vardera, det är planen.
+
 
 <!--
 Prel. foiki, skalle?
@@ -189,11 +213,45 @@ häggander, larsson
 
 
 
+Klassisk Grill {#grill}
+--------------------------------
+
+[FIGURE src=image/grillcon-2016-var/vi-fixar-grillen.jpg?w=720&h=240&cf&a=20,15,30,13&f0=colorize,40,0,0,0 caption="Grill med grillspett och annat."]
+
+Traditionell grill med förrätt, varmrätt, efterrätt och snacks.
+
+Förhoppningsvis har någon hackat och preppat inför grillspetten. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
+
+Under kvällen sker bland annat följande:
+
+* Riktigt svår tipspromenad.
+* Statusuppdatering för WM i Arkadbyggeri 2018.
+* Resultat och priser för WM i Uptime 2017/2018.
+
+-->
+
 <!--
+* Statusuppdatering för [WM i Arkadbyggeri 2018](blogg/wm-i-arkadbyggeri-2018).
+* Startskott för [WM i Uptime 2017/2018](blogg/wm-i-uptime-2018).
+-->
 
-Läs vidare för mer information.
+
+Utflykt med Foto- och Fritidsklubben {#utflykt}
+--------------------------------
+
+[FIGURE src=image/fotoklubben/aspo-2017-var_1600.jpg?w=720&h=240&cf&a=30,0,0,0,0&f0=colorize,40,0,0,0 caption="Vårutflykten gick till Aspö."]
+
+Utflykten pågår ungefär mellan 09-14. Plats för starten meddelas senare tillsammans med fler detaljer om dagen.
+
+Utflykten arrangeras av dbwebb's Foto- och Fritidsklubb. Det blir ett hemligt resmål som innebär enklare vandring/promenad bland sevärdheter och natur. En halvdagsutflykt i (hav), skog och mark i all enkelhet. Ta med egen matsäck, kläder för väder och en kamera om andan faller på.
+
+Ta gärna med en kompis.
+
+Våren 2017 gick utflykten till Aspö och hösten 2017 var vi på Tjurkö.
 
 
+
+<!--
 Hackathon {#hackathon}
 --------------------------------
 
