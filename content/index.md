@@ -9,6 +9,14 @@ views:
                 type: content
                 route: grillcon-2018-var/block/flash
 
+    article-toc:
+        region: sidebar-right
+        template: default/article-toc
+        sort: 1
+        data:
+            meta:
+                type: article-toc
+
     share-this:
         region: main
         template: default/share
@@ -167,7 +175,7 @@ Gongongen ringer högt när tiden gått ut.
 
 
 
-### 13:00 C\# {#13}
+### 13:00 `C#` {#13}
 
 [FIGURE src=image/personer/filip-ekberg.jpg??w=120&h=120&cf&a=25,25,10,12 caption="Filip" class="right"]
 
@@ -228,7 +236,7 @@ Under kvällen sker bland annat följande:
 * Statusuppdatering för WM i Arkadbyggeri 2018.
 * Resultat och priser för WM i Uptime 2017/2018.
 
--->
+
 
 <!--
 * Statusuppdatering för [WM i Arkadbyggeri 2018](blogg/wm-i-arkadbyggeri-2018).
