@@ -167,7 +167,7 @@ Gongongen ringer högt när tiden gått ut.
 
 
 
-### 13:00 C# {#13}
+### 13:00 C\# {#13}
 
 [FIGURE src=image/personer/filip-ekberg.jpg??w=120&h=120&cf&a=25,25,10,12 caption="Filip" class="right"]
 
@@ -248,6 +248,15 @@ Utflykten arrangeras av dbwebb's Foto- och Fritidsklubb. Det blir ett hemligt re
 Ta gärna med en kompis.
 
 Våren 2017 gick utflykten till Aspö och hösten 2017 var vi på Tjurkö.
+
+
+
+Hitta hit {#hitta}
+--------------------------------
+
+Här är vi.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UNmeJUpCMmbFy7dAFLzOwzwfFps" width="640" height="480"></iframe>
 
 
 
