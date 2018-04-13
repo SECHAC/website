@@ -41,7 +41,7 @@ GrillCon 2018 Vår - Hackathon och seminarier
 
 Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
 
-Det blir Hackathon följt av barhäng, Konferens med seminarier, Grill med aktiviteter samt Utflykt. 
+Det blir Hackathon följt av barhäng, Konferens med seminarier, Grill med aktiviteter samt Utflykt.
 
 
 
@@ -132,7 +132,7 @@ Coding kata
 * maria s
 
 15
-* 
+*
 
 (petter, niclas, maria)
 (msv)
@@ -157,11 +157,19 @@ Följande är ett preliminärt schema för seminarierna.
 
 
 
-### 10:00 Eiffel, build pipeline, docker {#10}
+### 10:00 Eiffel - CI/CDD på stor skala {#10}
 
-[FIGURE src=image/personer/magnus-aronsson.jpg?w=120&h=120&cf caption="Magnus" class="right"]
+[FIGURE src=image/personer/magnus-aronsson.jpg?w=240&h=240&cf caption="Magnus" class="right"]
 
-Magnus (ceruza) Aronsson ([LinkedIn](https://www.linkedin.com/in/magnus-aronsson-26447812b/))
+Magnus Aronsson jobbar som systemutvecklare på Tieto i Umeå och har ett stort intresse för CI/CDD och distribuerade system.
+
+Magnus berättar så här om sitt seminarie.
+
+> Eiffel är en standard för maskin-till-maskin kommunikation och ett antal implementationer av den standarden som tillsammans skapar ett meddelande-drivet Continuous Integration/Delivery/Deployment system. Detta ger team möjlighet att automatiskt sända meddelanden med information som andra team kan ha nytta av och en gemensam vokabulär att använda i denna kommunikation. Exempelvis kan team istället för vattenfall och överlämningar automatiskt uttala sig om kvalitén på varje commit och tillåta nedströms beroenden själva avgöra när de vill ta in en ny version.
+
+> I denna presentation ges ett par exempel på användningsfall för Eiffel, samt en demonstration av en docker-baserad implementation av ett CI-system som använder Eiffel.
+
+Magnus har gått ett av kurspaketet och har en examen från Umeå Universitet i systemvetenskap. Magnus är en hängiven dbwebbare och känd som ceruza i IRC:n. Läs mer om Magnus på [LinkedIn](https://www.linkedin.com/in/magnus-aronsson-26447812b/) eller läs Magnus' artikel på dbwebb som handlar om "[Flux med Redux och React](https://dbwebb.se/kunskap/flux-med-redux-och-react)".
 
 
 
@@ -282,7 +290,7 @@ För min egen del så funderar jag om det blir ramverket Anax som får en insats
 
 Hackathon i vår mening är att samlas och dedikera tiden till kodning. Vilken härlig frihetskänsla, inga måsten, bara kodande.
 
-Vill du delta i hackathonet men hacka på dina skoluppgifter och kmom så går det strålande bra. 
+Vill du delta i hackathonet men hacka på dina skoluppgifter och kmom så går det strålande bra.
 
 Årets sponsor till Hackathonet är Lars Ollén, aka Laeffe, som bidrar med kolsyrat vatten, färsk och torkad frukt samt osaltade/osötade nötter. Allt för att hålla produktiviteten på en hälsosamt hög nivå. Laeffe är alumni BTH student från Civ PT, aktiv i studentföreningen SIS och numer företagare på konsultföretaget [Projektkoll Sverige AB](https://www.projektkoll.nu/). Lars tänker även delta i Hackathonet så vi ser honom där.
 
@@ -324,13 +332,13 @@ Emanuel och Henrik håller presentationen om Machine Learning och delar med sig 
 <div style="overflow: auto;">
 [FIGURE src=image/personer/emanuel-johansson.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Emanuel" class="right"]
 
-Emanuel gick ut från Teknisk Fysik på KTH 2006 och började karriären inom embedded-mjukvara. Därifrån blev det mer och mer machine learning och bildbehandling. Han har bland annat jobbat med bildbehandling och bildigenkänning på värmekameror för övervakning, samt machine learning och statistik för automatiska väderprognoser i Nya Zeeland. 
+Emanuel gick ut från Teknisk Fysik på KTH 2006 och började karriären inom embedded-mjukvara. Därifrån blev det mer och mer machine learning och bildbehandling. Han har bland annat jobbat med bildbehandling och bildigenkänning på värmekameror för övervakning, samt machine learning och statistik för automatiska väderprognoser i Nya Zeeland.
 
 </div>
 
 [FIGURE src=image/personer/henrik-ohman.jpg?w=120&h=120&cf&a=15,10,15,10 caption="Henrik" class="right"]
 
-Henrik gick tre år på Fysikerprogrammet på Uppsala universitet men pausade studierna för att arbeta som mjukvaruutvecklare. Tio år senare återvände han till fysiken och disputerade i elementarpartikelfysik vid ATLAS-experimentet på CERN och Uppsala universitet 2016. Hans intresse för machine learning väcktes genom forskningen, där tekniken används för att urskilja små signaler bland en stor mängd bakgrund. 
+Henrik gick tre år på Fysikerprogrammet på Uppsala universitet men pausade studierna för att arbeta som mjukvaruutvecklare. Tio år senare återvände han till fysiken och disputerade i elementarpartikelfysik vid ATLAS-experimentet på CERN och Uppsala universitet 2016. Hans intresse för machine learning väcktes genom forskningen, där tekniken används för att urskilja små signaler bland en stor mängd bakgrund.
 
 Nu på Prisjakt har Emanuel och Henrik tillsammans fått möjligheten att starta upp en helt ny machine learning-grupp som än så länge har fokuserat på textanalys i samband med sortering av Prisjakts alla inkommande produkter vilket kommer att vara en stor del av ämnet för presentationen.
 
@@ -376,7 +384,7 @@ Under kvällen sker bland annat följande:
 
 
 <!--
-    
+
 Utflykt med Foto- och Fritidsklubben {#utflykt}
 --------------------------------
 
