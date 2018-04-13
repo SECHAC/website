@@ -273,6 +273,8 @@ Ta gärna med en kompis.
 
 Våren 2017 gick utflykten till Aspö och hösten 2017 var vi på Tjurkö.
 
+Missa inte fotoklubbens permanenta utställning utanför (och i) labbsalarna H429/H430. Där visas bilder upp från tidigare utflykter och andra händelser. Premiär och vernissage är planerad till Hackathonet.
+
 
 
 Hitta hit {#hitta}
