@@ -157,9 +157,19 @@ Följande är ett preliminärt schema för seminarierna.
 
 
 
-### 10:00 Eiffel - CI/CDD på stor skala {#10}
+### 10:00 Teknologi-snick-snack {#10}
 
-[FIGURE src=image/personer/magnus-aronsson.jpg?w=240&h=240&cf caption="Magnus" class="right"]
+Tanken är kort-korta presentationer som följer en gemensam form likt [Pecha kucha](https://sv.wikipedia.org/wiki/Pecha_kucha). Om vi efterliknar pecha kucha upplägget så gäller 20 slides á 20 sekunder (6 minuter och 40 sekunder) följt av frågor, efter 10 minuter är det nästa talare.
+
+Gongongen ringer högt när tiden gått ut.
+
+<!-- pansar om arkadbygge -->
+
+
+
+### 11:00 Eiffel - CI/CDD på stor skala {#11}
+
+[FIGURE src=image/personer/magnus-aronsson.jpg?w=240&h=240&cf&a=0,20,0,0 caption="Magnus" class="right"]
 
 Magnus Aronsson jobbar som systemutvecklare på Tieto i Umeå och har ett stort intresse för CI/CDD och distribuerade system.
 
@@ -173,23 +183,17 @@ Magnus har gått ett av kurspaketet och har en examen från Umeå Universitet i 
 
 
 
-### 11:00 Teknologi-snick-snack {#11}
-
-Tanken är kort-korta presentationer som följer en gemensam form likt [Pecha kucha](https://sv.wikipedia.org/wiki/Pecha_kucha). Om vi efterliknar pecha kucha upplägget så gäller 20 slides á 20 sekunder (6 minuter och 40 sekunder) följt av frågor, efter 10 minuter är det nästa talare.
-
-Gongongen ringer högt när tiden gått ut.
-
-<!-- pansar om arkadbygge -->
-
-
-
 ### 13:00 `C#` {#13}
 
-[FIGURE src=image/personer/filip-ekberg.jpg??w=120&h=120&cf&a=25,25,10,12 caption="Filip" class="right"]
+[FIGURE src=image/personer/filip-ekberg.jpg??w=240&h=240&cf&a=25,25,10,12 caption="Filip" class="right"]
 
-Filip Ekberg är egen konsult på fekberg AB och författare till boken C# Smorgasbord.
+Filip Ekberg är konsult på fekberg AB och författare till boken C# Smorgasbord.
 
-Läs mer om Filip på [LinkedIn](https://www.linkedin.com/in/filipekberg/) eller i dbwebb-artikeln "[Fråga Filip Ekberg om livet som egenkonsult](https://dbwebb.se/blogg/fraga-filip-ekberg-om-livet-som-egenkonsult)".
+Så här säger Filip om sitt seminarie.
+
+> Mycket har hänt de senaste 18 åren sedan C# först visades upp, vad är det egentligen som gör att programmeringsspråket är ett av de mest använda och omtyckta på marknaden? Låt oss titta på nya, och några gamla, språk-features som gör en C#-utvecklares vardag enklare och roligare att jobba i. Jag är C# utvecklare i grund och botten, jobbar dagligen med språket -- men jag sitter inte i Windows-miljö! Hur funkar det? Låt oss prata om hur C# möjliggör utveckling på vilken platform som helst!
+
+Filip gick ut SE-programmet vid BTH för 10 år sedan och har sedan dess gjort karriär som internationell programutvecklare, skribent och talare på konferenser. Läs mer om Filip på [LinkedIn](https://www.linkedin.com/in/filipekberg/) eller i dbwebb-artikeln "[Fråga Filip Ekberg om livet som egenkonsult](https://dbwebb.se/blogg/fraga-filip-ekberg-om-livet-som-egenkonsult)".
 
 
 
