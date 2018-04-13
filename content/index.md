@@ -45,7 +45,7 @@ Det blir Hackathon följt av barhäng, Konferens med seminarier, Grill med aktiv
 
 
 
-Övergripande schema och aktiviteter {#oversikt}
+Övergripande planering {#plan}
 --------------------------------
 
 Det övergripande schemat ser ut så här.
