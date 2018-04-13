@@ -1,7 +1,7 @@
 ---
 author:
     - mos
-created: 2017-09-07
+published: "2017-09-07 09:30"
 ...
 Startskott för WM i Uptime 2017/2018
 ======================================

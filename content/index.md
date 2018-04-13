@@ -232,7 +232,11 @@ häggander, larsson
 Klassisk Grill {#grill}
 --------------------------------
 
+<!--
 [FIGURE src=image/grillcon-2016-var/vi-fixar-grillen.jpg?w=720&h=240&cf&a=20,15,30,13&f0=colorize,40,0,0,0 caption="Grill med grillspett och annat."]
+-->
+
+[FIGURE src=image/grill-album/mos_grill.jpg?w=730&h=240&cf&a=16,0,0,0&f0=colorize,40,0,0,0 caption="Grillspett i sann spiritualistisk anda."]
 
 Traditionell grill med förrätt, varmrätt, efterrätt och snacks.
 
