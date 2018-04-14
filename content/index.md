@@ -163,6 +163,14 @@ Tanken är kort-korta presentationer som följer en gemensam form likt [Pecha ku
 
 Gongongen ringer högt när tiden gått ut.
 
+Presentatörer äro följande.
+
+| Presentatör       | Typ             | Titel |
+|-------------------|-----------------|-------|
+| Marcus Gustafsson | Pecha kucha     | p5.js |
+| Oscar Bäck        | Pecha kucha x 2 | Flexa med Bäck |
+| Andreas o Kenneth | Pecha kucha     | Polisanalys med Python |
+
 <!-- pansar om arkadbygge -->
 
 
