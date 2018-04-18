@@ -169,7 +169,7 @@ Presentatörer äro följande.
 |-------------------|-----------------|-------|
 | Marcus Gustafsson | Pecha kucha     | p5.js |
 | Oscar Bäck        | Pecha kucha x 2 | Flexa med Bäck |
-| Andreas o Kenneth | Pecha kucha     | Polisanalys med Python |
+| Andreas o Kenneth | Pecha kucha     | Comparison and Prediction of Temporal Hotspots |
 
 <!-- pansar om arkadbygge -->
 
