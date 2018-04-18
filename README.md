@@ -17,7 +17,7 @@ Inspect the Makefile to find out whats actually happens.
 
 
 
-###Dependencies
+### Dependencies
 
 * Apache2 and PHP5 (with pecl and GD)
 
@@ -30,7 +30,7 @@ $ sudo apt-get install apache2 php5 libapache2-mod-php5 php5-dev php-pear php5-g
 
 
 
-###Fresh install
+### Fresh install
 
 Start by preparing your local development environment.
 
@@ -52,7 +52,7 @@ $ make etc-hosts virtual-host update
 
 
 
-###Keep updated
+### Keep updated
 
 Update the code base, the external packages and publish locally.
 
@@ -62,7 +62,7 @@ $ make update
 
 
 
-###Develop and test locally
+### Develop and test locally
 
 Make changes in your repo, publish using `make local-publish` and reload your browser.
 
@@ -76,7 +76,7 @@ $ make local-publish-clear
 
 
 
-###Install all submodules
+### Install all submodules
 
 Some content is available in external submodules. To install them, where you have the properties to do so, do like this.
 
@@ -92,7 +92,7 @@ $ make update-all
 
 
 
-###Help me
+### Help me
 
 * [Install YAML on Debian/Linux](http://dbwebb.se/t/5244).
 
