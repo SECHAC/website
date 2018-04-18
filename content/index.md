@@ -36,7 +36,7 @@ author:
 revision:
     "2018-03-29": (A, mos) Inför GrillCon 2018 vår.
 ...
-GrillCon 2018 Vår - Hackathon och seminarier
+GrillCon 2018 Vår - Hackathon och Konferens
 ===============================
 
 Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
@@ -68,6 +68,21 @@ Mer info kommer.
 
 Hackathon {#hackathon}
 --------------------------------
+
+<!--
+* daniel + mos mikro optimeringar
+* Andreas webassembly
+* terminilogy du måste veta om för att inte bli mobbad på arbetsplatsnme
+
+
+Team:
+asteroids js
+css usability
+BITS websida
+
+-->
+
+
 
 Möte den 18/4 för att bestämma fokus på hackathonet.
 
