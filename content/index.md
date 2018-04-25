@@ -43,6 +43,8 @@ Vårens GrillCon går av stapel torsdag till lördag den 17-19 maj, 2018.
 
 Det blir Hackathon följt av barhäng, Konferens med seminarier, Grill med aktiviteter samt Utflykt.
 
+[ANMÄL DIG NU!](https://goo.gl/f7SQdv)
+
 
 
 Övergripande planering {#plan}
@@ -62,30 +64,54 @@ Det övergripande schemat ser ut så här.
 |              | 17-23 | Kårpuben håller extra öppet för GrillCon gäster |
 | Lördag       | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
 
-Mer info kommer.
-
 
 
 Hackathon {#hackathon}
 --------------------------------
 
+Plats H429 och H430 klockan 9-17.
+
+Under dagen förekommer presentationer, planerade och spontana. Det finns team som har annonserat sitt fokus för dagen och man kan anmäla sig till teamledaren för att delta i teamet.
+
+
+
+### Presentationer {#pres}
+
+Följande presentationern är grovt inplanerade. Eventuellt tillkommer spontana tillägg efter hand som inspirationen blomstrar.
+
+| Tid (ish)  | Fokus                        |
+|:----------:|------------------------------|
+|  11        | Assembler i webbläsaren, webassembly (Andreas) |
+|  14        | Mikrooptimeringar för vardagen i terminalen I (Mikael) |
+|  15        | Mikrooptimeringar för vardagen i terminalen II (Daniel) |
+
+Presentationerna är korta, 10 minuter.
+
+
+
+### Team {#team}
+
+Följande team kommer att verksamhet under dagen.
+
+| Team titel | Teamledare |
+|------------|------------|
+| BITS webbsida | Martin "ocpu" Hövre |
+| CSS usability hack contest | Vidar "Lenore" Tedenbrant |
+| Programmera spel i JavaScript/Canvas i webbläsaren | Mikael "mos" Roos |
+
+Tanken är att varje team har ett fokus att leverera innan dagen är slut. Eventuellt blir det spontana presentationer av dagens resultat, innan vi går hem.
+
+
 <!--
-* daniel + mos mikro optimeringar
-* Andreas webassembly
 * terminilogy du måste veta om för att inte bli mobbad på arbetsplatsnme
-
-
-Team:
-asteroids js
-css usability
-BITS websida
-
 -->
 
 
-
+<!--
 Möte den 18/4 för att bestämma fokus på hackathonet.
+-->
 
+<!--
 Tanken är att det blir vissa team-aktiviteter där en teamledare bestämmer fokus och de som hänger på jobbar på samma typ av aktivitet under dagen. Tanken är att alla team lyckas komma till ett avslut innan dagen är slut.
 
 Ett exempel kan vara ett team som sysslar med att programmera spel för webbläsaren med JavaScript och grafik i canvas.
@@ -93,6 +119,7 @@ Ett exempel kan vara ett team som sysslar med att programmera spel för webbläs
 Under dagen finns det korta 10-15 minuters presentationer som hålls klockan 11, 14 och 15 i en av salarna.
 
 Ta möjligheten att dedikera dagen för att koda loss på ett av dina egna personliga projekt. Hojta gärna till om du kan tänka dig att leda ett team med specifikt fokus. Du bestämmer själv fokuset.
+-->
 
 <!--
 Agenda.
@@ -163,12 +190,16 @@ Konferens och Seminarier {#konferens}
 
 Plats: Sal J1640.
 
-Konferensdelen pågår 10-15 med paus för lunch klockan 12-13.Tid 10-12, 13-15. Det blir en blandning av presentationer och hör av dig till organisatörerna om du är sugen på att håll aen presentation.
+Konferensdelen pågår 10-15 med paus för lunch klockan 12-13.Tid 10-12, 13-15.
+
+<!--
+ Det blir en blandning av presentationer och hör av dig till organisatörerna om du är sugen på att hålla en presentation.
+-->
 
 
 <!-- tuta o klocka -->
 
-Följande är ett preliminärt schema för seminarierna.
+Följande är schemat för seminarierna.
 
 
 
@@ -182,8 +213,8 @@ Presentatörer äro följande.
 
 | Presentatör       | Typ             | Titel |
 |-------------------|-----------------|-------|
-| Marcus Gustafsson | Pecha kucha     | p5.js |
-| Oscar Bäck        | Pecha kucha x 2 | Flexa med Bäck |
+| Marcus Gustafsson | Pecha kucha     | p5.js - libb för att koda grafik på canvas. |
+| Peder Tornberg    | Pecha kucha     | Distribuerade små team i global software engineering. |
 | Andreas o Kenneth | Pecha kucha     | Comparison and Prediction of Temporal Hotspots |
 
 <!-- pansar om arkadbygge -->
@@ -220,9 +251,21 @@ Filip gick ut SE-programmet vid BTH för 10 år sedan och har sedan dess gjort k
 
 
 
-### 14:00 Seminarier {#14}
+### 14:00 Flexa CSS med Bäck {#1400}
 
+Oscar Bäck ger oss insikter i positionerssystemet Flex i CSS.
+
+
+
+### 14:30 "Lös problemet" {#1430}
+
+Charlie Svahnberg besöker oss och delar med sig av sina erfarenheter från en lång karriär.
+
+
+
+<!--
 Att bestämmas, 2 korta seminarier om 25 minuter vardera, det är planen.
+-->
 
 
 <!--
@@ -267,6 +310,8 @@ Klassisk Grill {#grill}
 
 Traditionell grill med förrätt, varmrätt, efterrätt och snacks.
 
+Kårpuben har extra öppet 15-17 inför grillen. Externa gäster måste finnas anmälda på en gästlista.
+
 Förhoppningsvis har någon hackat och preppat inför grillspetten. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
 Under kvällen sker bland annat följande:
@@ -274,8 +319,9 @@ Under kvällen sker bland annat följande:
 * Riktigt svår tipspromenad.
 * Statusuppdatering för WM i Arkadbyggeri 2018.
 * Resultat och priser för WM i Uptime 2017/2018.
+* Notis om startskott för WM i Uptime 2018/2019.
 
-
+Kåren har extra öppet i puben till klockan 23 i anslutning till grillen. 
 
 <!--
 * Statusuppdatering för [WM i Arkadbyggeri 2018](blogg/wm-i-arkadbyggeri-2018).
