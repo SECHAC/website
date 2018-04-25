@@ -1,6 +1,11 @@
-####Anmäl snart!
+#### Anmäl NU!
 
-Anmälan öppnar inom kort.
+[ANMÄL DIG NU!](https://goo.gl/f7SQdv)
+
+
+
+
+#### Arkiv
 
 Se [arkivet](arkiv) för information om föregående GrillCon.
 
