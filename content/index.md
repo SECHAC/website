@@ -255,7 +255,7 @@ Filip gick ut SE-programmet vid BTH för 10 år sedan och har sedan dess gjort k
 
 [FIGURE src=image/personer/oscar-back.jpg??w=240&h=240&cf&a=0,0,0,0 caption="Oscar" class="right"]
 
-Oscar Bäck brinner för frontend-utveckling och kommer att hålla en presentation för att ge oss insikter i positionerssystemet Flexbox i CSS3.
+Oscar Bäck brinner för frontend-utveckling och kommer att hålla en presentation för att ge oss insikter i design, layout och positionering med Flexbox i CSS3.
 
 Så här säger Oscar om sitt seminarie.
 
