@@ -59,7 +59,7 @@ Det övergripande schemat ser ut så här.
 |              | 18-   | The Fox & Anchor, med eller utan karaoke |
 | Fredag       | 09-10 | Hackathon frukost                  |
 |              | 10-15 | Konferens med seminarier och presentationer |
-|              | 15-17 | Samtal, fika och allmänt häng, ev öppen kårpub  |
+|              | 15-17 | Samtal, fika, hacka (track 1) och öppen kårpub (track 2) |
 |              | 17-   | Traditionell Grill med aktiviteter |
 |              | 17-23 | Kårpuben håller extra öppet för GrillCon gäster |
 | Lördag       | 09-14 | Utflykt i Foto- och Fritidsklubbens regi |
@@ -253,49 +253,35 @@ Filip gick ut SE-programmet vid BTH för 10 år sedan och har sedan dess gjort k
 
 ### 14:00 Flexa CSS med Bäck {#1400}
 
-Oscar Bäck ger oss insikter i positionerssystemet Flex i CSS.
+[FIGURE src=image/personer/oscar-back.jpg??w=240&h=240&cf&a=0,0,0,0 caption="Oscar" class="right"]
+
+Oscar Bäck brinner för frontend-utveckling och kommer att hålla en presentation för att ge oss insikter i positionerssystemet Flexbox i CSS3.
+
+Så här säger Oscar om sitt seminarie.
+
+> Innan flexbox kom med CSS3 har vi fått nöja oss med bland annat position och float. Även om dessa (i alla fall position) fortfarande fyller sina funktioner, så är flex ett nytt sätt att hantera objekt mer flexibelt (no pun intended) på sidan. 
+
+> Tanken med detta seminarie är att introducera tänket med Flex och visa vissa finesser som du enkelt kan applicera i dina egna projekt. 
+
+> Kanske även rekrytera en och annan backendare till frontend? 
+
+Läs mer om [Oscar på LinkedIn](https://www.linkedin.com/in/oscar-b%C3%A4ck-453aa0151/).
 
 
 
-### 14:30 "Lös problemet" {#1430}
+### 14:30 Problemet är lösningen {#1430}
 
-Charlie Svahnberg besöker oss och delar med sig av sina erfarenheter från en lång karriär.
+[FIGURE src=image/grill-album/skalle.jpg?w=240&h=240&cf&a=0,15,30,33 caption="Charlie" class="right"]
 
+Charlie Svahnberg besöker oss och delar med sig av sina erfarenheter från en lång karriär som programvarutekniker. Charlie är en av de första programvarutekniker som examinerades från BTH, hans studentakronym är pt91cs.
 
+Charlie är konsult på firman [HLL](http://www.hll.se/) och jobbar främst med IT (nätverk, switchar, routrar och annat som gör att nätet fungerar).
 
-<!--
-Att bestämmas, 2 korta seminarier om 25 minuter vardera, det är planen.
--->
+Så här säger Charlie om sitt seminarie.
 
+> Smaka på titeln, "Problemet är lösningen", "en filosofisk betraktelse kring hur duktiga tekniker får lov att förbli duktiga tekniker", typ. Kräver nog lite mer tanke, men.
 
-<!--
-Prel. foiki, skalle?
-Alt. Maria eller paneldebatt
--->
-
-
-<!--
-
-Ta med en kompis fredagen.
-
-10
-* Skalle 30min (ncurses?)
-* Ceruza (docker), (daniel)
-* Bobbzorzen (?)
-* foiki ()
-
-* session med exjobbare? 5minutare?
-
-13 fekberg C#
-14 Paneldebatt
-    (wasa, pansar)
-
-city cloud (docker, kubinette, ip-lastbalansering)?
-häggander, larsson
-
-(petter, niclas, maria)
-
--->
+Charlie är hemlighetsfull, men vi kan räkna med att han levererar. Charlie har som tekniker en lång och gedigen erfarenhet av att hantera chefer och management ur olika aspekter så att de gör ett gott jobb. Vi ser fram emot hans besök och att få dela hans erfarenheter.
 
 
 
