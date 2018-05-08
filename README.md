@@ -1,7 +1,7 @@
 GrillCon at dbwebb (website)
 ================================
 
-[![Join the chat at https://gitter.im/mosbth/dbwebb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mosbth/dbwebb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/mosbth/dbwebb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dbwebb-se/grillcon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Website grillcon.dbwebb.se](https://grillcon.dbwebb.se) for the annual event for students and alumni, mainly at the education program Web programming at BTH. Together with some software engineers.
 
