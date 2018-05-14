@@ -345,7 +345,7 @@ Här är vi.
 
 
 
-Parkera {#parkera}
+Parkera vid BTH {#parkera}
 --------------------------------
 
 Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format.
