@@ -231,7 +231,7 @@ Magnus berättar så här om sitt seminarie.
 
 > Eiffel är en standard för maskin-till-maskin kommunikation och ett antal implementationer av den standarden som tillsammans skapar ett meddelande-drivet Continuous Integration/Delivery/Deployment system. Detta ger team möjlighet att automatiskt sända meddelanden med information som andra team kan ha nytta av och en gemensam vokabulär att använda i denna kommunikation. Exempelvis kan team istället för vattenfall och överlämningar automatiskt uttala sig om kvalitén på varje commit och tillåta nedströms beroenden själva avgöra när de vill ta in en ny version.
 
-> I denna presentation ges ett par exempel på användningsfall för Eiffel, samt en demonstration av en docker-baserad implementation av ett CI-system som använder Eiffel.
+> I denna presentation ges ett par exempel på användningsfall för Eiffel.
 
 Magnus har gått ett av kurspaketet och har en examen från Umeå Universitet i systemvetenskap. Magnus är en hängiven dbwebbare och känd som ceruza i IRC:n. Läs mer om Magnus på [LinkedIn](https://www.linkedin.com/in/magnus-aronsson-26447812b/) eller läs Magnus' artikel på dbwebb som handlar om "[Flux med Redux och React](https://dbwebb.se/kunskap/flux-med-redux-och-react)".
 
