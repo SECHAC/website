@@ -190,7 +190,7 @@ Konferens och Seminarier {#konferens}
 
 Plats: Sal J1640.
 
-Konferensdelen pågår 10-15 med paus för lunch klockan 12-13.Tid 10-12, 13-15.
+Konferensdelen pågår 10-15 med paus för lunch klockan 12-13.
 
 <!--
  Det blir en blandning av presentationer och hör av dig till organisatörerna om du är sugen på att hålla en presentation.
