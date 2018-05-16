@@ -81,7 +81,6 @@ Följande presentationern är grovt inplanerade. Eventuellt tillkommer spontana 
 
 | Tid (ish)  | Fokus                        |
 |:----------:|------------------------------|
-|  11        | Assembler i webbläsaren, webassembly (Andreas) |
 |  14        | Mikrooptimeringar för vardagen i terminalen I (Mikael) |
 |  15        | Mikrooptimeringar för vardagen i terminalen II (Daniel) |
 
