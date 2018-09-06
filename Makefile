@@ -33,6 +33,14 @@ help:
 
 
 
+# target: clean-cache-anax        - Clean the local anax cache directory.
+.PHONY: clean-cache-anax
+clean-cache-anax:
+	@$(call HELPTEXT,$@)
+	-rm -f cache/anax/*
+
+
+
 # target: update - Update codebase and publish by clearing the cache.
 .PHONY: update
 update: codebase-update site-build local-publish-clear
