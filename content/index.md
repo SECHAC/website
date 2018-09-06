@@ -39,7 +39,7 @@ revision:
 GrillCon 2018 Höst - Klassisk Grill
 ===============================
 
-Höstens GrillCon går av stapel fredagen 21 maj, 2018.
+Höstens GrillCon går av stapel fredagen 21 september, 2018.
 
 Det blir en klassisk grill-eftermiddag och kväll.
 
