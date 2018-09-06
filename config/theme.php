@@ -27,7 +27,7 @@ return [
 
             // JavaScript
             //"javascripts" => ["js/mos-theme/responsive-menu.min.js&v=160905"],
-            "javascripts" => ["js/mos-theme/responsive-menu.js?v=160905"],
+            "javascripts" => ["js/mos-theme/responsive-menu.js?v=180906"],
         ],
     ],
 
