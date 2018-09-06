@@ -11,6 +11,41 @@ GrillCon at dbwebb (website)
 For developers and maintainers
 --------------------------------
 
+This is the easiest way to get going.
+
+
+
+### Run in Docker
+
+Start the website with docker-compose.
+
+```
+docker-compose up
+```
+
+The webserver starts at the port defined in the file `docker-compose.yml`, for example port 18081.
+
+Open a web browser to localhost:18081. 
+
+
+
+### Clear the cache on update
+
+When you update a web page in the `content/` directory, you also need to clear the Anax cache.
+
+```
+make clean-cache-anax
+```
+
+Now you can update a page content and reload it in the web browser.
+
+
+
+For developers and maintainers (OLDER)
+--------------------------------
+
+This is older information related to how the website runs on a production server.
+
 This is how I do it on Debian/Linux.
 
 Inspect the Makefile to find out whats actually happens.
