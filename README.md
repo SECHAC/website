@@ -17,9 +17,10 @@ This is the easiest way to get going.
 
 ### Run in Docker
 
-Start the website with docker-compose.
+Load PHP packages through composer and start up the website with docker-compose.
 
 ```
+composer install
 docker-compose up
 ```
 
