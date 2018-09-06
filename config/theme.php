@@ -18,7 +18,8 @@ return [
             "lang"          => "sv",
             "charset"       => "utf-8",
             "title_append"  => " | GrillCon",
-            "favicon"       => "img/favicon/favicon_256_256.png",
+            // "favicon"       => "img/favicon/favicon_256_256.png",
+            "favicon"       => "img/logo/logo-dbwebb-grillcon-2018_256x256.png",
 
             // Style and stylesheets
             "stylesheets" => ["css/style.min.css?v=160905"],
@@ -42,7 +43,7 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "GrillCon",
-                "siteLogoTextIcon" => "img/logo/grillcon_logo_40x40.png",
+                "siteLogoTextIcon" => "img/logo/logo-dbwebb-grillcon-2018_40x40.png",
                 "siteLogoTextIconAlt" => "Liten logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
@@ -56,7 +57,8 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/favicon/favicon_256_256.png",
+                // "src" => "img/favicon/favicon_256_256.png",
+                "src" => "img/logo/logo-dbwebb-grillcon-2018_256x256.png",
                 "alt" => "Logo",
             ],
             "sort" => -1

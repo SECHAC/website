@@ -4,7 +4,6 @@
 
 
 
-
 #### Arkiv
 
 Se [arkivet](arkiv) för information om föregående GrillCon.
