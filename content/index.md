@@ -48,7 +48,7 @@ Det blir en klassisk grill-eftermiddag och kväll.
 
 Efter "feature-request" från Jane så blir det även traditionsenlig mat på torsdagskvällen på Fox & Anchor.
 
-Då det är programmeringsstuga i labbsalen på torsdagen så kommer både lärare, tillresande och studenter att hänga där. Välkommen att delta, förlägg din arbetsdag till labbsalen och insup Atmosfären.
+Då det är programmeringsstuga i labbsalen på torsdagen så kommer både lärare, tillresande och studenter att hänga där. Välkommen att delta, förlägg din arbetsdag till labbsalen och insup atmosfären.
 
 
 
