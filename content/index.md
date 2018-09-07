@@ -34,6 +34,7 @@ views:
 author:
     - mos
 revision:
+    "2018-09-07": (B, mos) Lade till kvällsmat på torsdagen.
     "2018-09-06": (A, mos) Inför GrillCon 2018 höst.
 ...
 GrillCon 2018 Höst - Klassisk Grill
@@ -45,6 +46,10 @@ Det blir en klassisk grill-eftermiddag och kväll.
 
 [ANMÄL DIG NU!](https://goo.gl/f7SQdv)
 
+Efter "feature-request" från Jane så blir det även traditionsenlig mat på torsdagskvällen på Fox & Anchor.
+
+Då det är programmeringsstuga i labbsalen på torsdagen så både lärare, tillresande och studenter kommer att hänga där. Välkommen att delta, förlägg din arbetsdag till labbsalen och insup atomsfären.
+
 
 
 Övergripande planering {#plan}
@@ -54,7 +59,9 @@ Det övergripande schemat ser ut så här.
 
 | Dag          | Tid   | Vad händer?                        |
 |--------------|:-----:|------------------------------------|
-| Fredag       | 13-17 | Samtal, fika, hacka, WM i kubb? |
+| Torsdag      | 09-17 | Häng i labbsalen                   |
+|              | 18-   | Fox & Anchor                       |
+| Fredag       | 13-17 | Samtal, fika, hacka, WM i kubb?    |
 |              | 17-   | Traditionell Grill med aktiviteter |
 
 
