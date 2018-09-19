@@ -34,6 +34,7 @@ views:
 author:
     - mos
 revision:
+    "2018-09-19": (C, mos) Länk till WM i Uptime.
     "2018-09-07": (B, mos) Lade till kvällsmat på torsdagen.
     "2018-09-06": (A, mos) Inför GrillCon 2018 höst.
 ...
@@ -82,7 +83,7 @@ Förhoppningsvis har någon hackat och preppat inför grillspetten. Har vi ännu
 Under kvällen sker bland annat följande:
 
 * Riktigt svår tipspromenad.
-* Startskott för WM i Uptime 2018/2019.
+* Startskott för [WM i Uptime 2018/2019](https://dbwebb.se/forum/viewtopic.php?f=25&t=7680).
 
 <!--
 Kåren har extra öppet i puben till klockan 23 i anslutning till grillen. 
