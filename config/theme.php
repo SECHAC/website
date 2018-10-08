@@ -22,7 +22,7 @@ return [
             "favicon"       => "img/logo/logo-dbwebb-grillcon-2018_256x256.png",
 
             // Style and stylesheets
-            "stylesheets" => ["css/style.min.css?v=160905"],
+            "stylesheets" => ["css/style.min.css?v=181008"],
             "styleInline" => null,
 
             // JavaScript
