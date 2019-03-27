@@ -1,3 +1,4 @@
+<!--
 #### Anmäl NU!
 
 [ANMÄL DIG NU!](https://goo.gl/f7SQdv)
@@ -7,6 +8,8 @@
 #### Arkiv
 
 Se [arkivet](arkiv) för information om föregående GrillCon.
+
+-->
 
 <!--
 
