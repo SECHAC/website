@@ -2,6 +2,7 @@
 author:
     - mos
 revision:
+    2019-03-27: (F, mos) La till grillcon 2018 höst.
     2018-09-06: (E, mos) La till grillcon 2018 vår.
     2017-08-29: (D, mos) La till grillcon 2017 vår.
     2017-01-26: (C, mos) La till grillcon 2016 höst.
@@ -28,6 +29,8 @@ Länka till information om genomförda GrillCons.
 
 Pre- GrillCons
 ------------------------
+
+* Anmälan till [GrillCon 2018 Höst](arkiv/grillcon-2018-host)
 
 * Anmälan till [GrillCon 2018 Vår](arkiv/grillcon-2018-var)
 
