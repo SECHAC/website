@@ -94,7 +94,7 @@ Följande är övergripande schemat för seminarierna.
 |:--------------:|-------------------------------------|
 | 10:00          | Konferensen öppnas (mos)            |
 | 10:10          | Teknologi-snick-snack (pecha kucha) |
-| 11:10          | Regexp med Bobba                    |
+| 11:10          | Regexp med Rex                    |
 | 12:00          | Lunch                               |
 | 13:00          | Eftermiddagen öppnas (mos)          |
 | 13:10          | Seminarie (planering pågår)         |
@@ -119,7 +119,9 @@ Presentatörer äro följande (planering pågår).
 
 
 
-### Kl 11: Regex med Bobba {#11}
+### Kl 11: Regex med Rex {#11}
+
+Leopold Olsson pratar reguljära uttryck under titeln **"Regular expressions - Not as complicated as they seem"**, eller kortare **"Regex med Rex"**.
 
 Här skall jag skriva någon vacker text om bobba, hans arbetstitel, företag och hans föredrag om hur man blir as-kicker på regexp.
 
