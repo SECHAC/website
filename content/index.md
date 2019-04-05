@@ -118,8 +118,11 @@ Presentatörer äro följande (planering pågår).
 |                   | Pecha kucha     |       |
 
 
+Här följer information om föredrag och fördragshållare under pecha kucha sessionen.
 
-#### Peter om en intelligent chattbott {#10-1}
+
+
+### Peter om en intelligent chattbott {#10-1}
 
 <div class="clearfix" markdown="1">
 
