@@ -113,7 +113,7 @@ Presentatörer äro följande (planering pågår).
 | Presentatör       | Typ             | Titel |
 |-------------------|-----------------|-------|
 | Peter Hamfelt     | Pecha kucha     | Erfarenheter av att utveckla en intelligent chattbot. |
-|                   | Pecha kucha     |       |
+| Andreas Arnesson  | Pecha kucha     | Vad innebär devops? |
 |                   | Pecha kucha     |       |
 |                   | Pecha kucha     |       |
 
@@ -122,7 +122,7 @@ Här följer information om föredrag och fördragshållare under pecha kucha se
 
 
 
-### Peter om en intelligent chattbott {#10-1}
+### Pecha: Peter om en intelligent chattbott {#10-1}
 
 <div class="clearfix" markdown="1">
 
@@ -138,13 +138,29 @@ Peter kommer prata om tekniken och erfarenheter från projektet.
 
 
 
+### Pecha: Andreas förklarar begreppet devops {#10-2}
+
+<div class="clearfix" markdown="1">
+
+[FIGURE src=image/personer/andreas-arnesson.jpg?w=c5&h=200&cf&a=12,10,35,30&nc caption="Andreas Arnesson, koll på devops" class="right"]
+
+Andreas Arnesson, aka zeldah, före detta student på Software Engineering som jobbat som programutvecklare på Ericsson och jobbar nu på Blekinge Tekniska Högskola kommer att berätta vad begreppet "devops" handlar om.
+
+Andreas har grävt sig ned i begreppsvärlden som sammaför den developer med operations, devops. Men vad innebär termen i mer praktiskt arbete? Vilka arbetsuppgifter omfattas, hur stor är atumatisering av tester och deployment, och kommer docker-liknande tekniker att bli riktigt stort?
+
+Andreas är killen som har koll på devops.
+
+</div>
+
+
+
 ### Kl 11: Regex med Rex {#11}
 
 [FIGURE src=image/personer/leopold-olsson.jpg?w=c5&h=200&cf caption="Leopold Olsson, Cybercom Group" class="right"]
 
 Leopold Olsson, aka bobbzorzen, har alltid haft en förkärlek till reguljära uttryck och kommer nu hit för att ge oss en genväg in i en underbar värld av ett kraftfullt verktyg som kan se ut så här `/^[Ll]eo(?:pold)?$/`.
 
-Leo gick ut programmet Webbprogrammering för et tantal år sedan och flyttade till Jönköping för att jobba på Cybercom Group som konsult och software developer. Leo har varvat med olika uppdrag såsom att programmera automatiserade tester till gräsklippare på Huskvarna med uppdrag inom undervisning av Python på Jönköping University.
+Leo gick ut programmet Webbprogrammering för ett antal år sedan och flyttade till Jönköping för att jobba på Cybercom Group som konsult och software developer. Leo har varvat med olika uppdrag såsom att programmera automatiserade tester till gräsklippare på Huskvarna med uppdrag inom undervisning av Python på Jönköping University.
 
 Nu är Leo på en allmän konferensresa och besöker oss alltså för att prata om ett av sina stora intressen, reguljära uttryck. Missa inte möjligheten att lära dig regex på en timme, med Rex, som leo också kallas.
 
