@@ -113,7 +113,7 @@ Presentatörer äro följande (planering pågår).
 | Presentatör       | Typ             | Titel |
 |-------------------|-----------------|-------|
 | Peter Hamfelt     | Pecha kucha     | Erfarenheter av att utveckla en intelligent chattbot. |
-| Andreas Arnesson  | Pecha kucha     | Vad innebär devops? |
+| Andreas Arnesson  | Pecha kucha     | Vad innebär DevOps? |
 |                   | Pecha kucha     |       |
 |                   | Pecha kucha     |       |
 
@@ -138,17 +138,17 @@ Peter kommer prata om tekniken och erfarenheter från projektet.
 
 
 
-### Pecha: Andreas förklarar begreppet devops {#10-2}
+### Pecha: Andreas förklarar begreppet DevOps {#10-2}
 
 <div class="clearfix" markdown="1">
 
-[FIGURE src=image/personer/andreas-arnesson.jpg?w=c5&h=200&cf&a=12,10,35,30&nc caption="Andreas Arnesson, koll på devops" class="right"]
+[FIGURE src=image/personer/andreas-arnesson.jpg?w=c5&h=200&cf&a=12,10,35,30&nc caption="Andreas Arnesson, koll på DevOps" class="right"]
 
-Andreas Arnesson, aka zeldah, före detta student på Software Engineering som jobbat som programutvecklare på Ericsson och nu jobbar på Blekinge Tekniska Högskola kommer att berätta vad begreppet "devops" handlar om.
+Andreas Arnesson, aka zeldah, före detta student på Software Engineering som jobbat som programutvecklare på Ericsson och nu jobbar på Blekinge Tekniska Högskola kommer att berätta vad begreppet "DevOps" handlar om.
 
-Andreas har grävt sig ned i begreppsvärlden som sammanför den developer med operations, devops. Men vad innebär termen i mer praktiskt arbete? Vilka arbetsuppgifter omfattas, hur stor är atumatisering av tester och deployment, och kommer docker-liknande tekniker att bli riktigt stort?
+Men vad innebär termen egentligen? De flesta gör koppling till CI/CD (Continous Integration/Delivery) för att automatisera arbete och kanske att utvecklare ska jobba tätare med operations folket. Men DevOps är så mycket mer, det är en kultur och arbetssätt hela företag behöver anamma.
 
-Andreas är killen som har koll på devops.
+Andreas är killen som har koll på DevOps.
 
 </div>
 
