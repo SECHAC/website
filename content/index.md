@@ -144,9 +144,9 @@ Peter kommer prata om tekniken och erfarenheter från projektet.
 
 [FIGURE src=image/personer/andreas-arnesson.jpg?w=c5&h=200&cf&a=12,10,35,30&nc caption="Andreas Arnesson, koll på devops" class="right"]
 
-Andreas Arnesson, aka zeldah, före detta student på Software Engineering som jobbat som programutvecklare på Ericsson och jobbar nu på Blekinge Tekniska Högskola kommer att berätta vad begreppet "devops" handlar om.
+Andreas Arnesson, aka zeldah, före detta student på Software Engineering som jobbat som programutvecklare på Ericsson och nu jobbar på Blekinge Tekniska Högskola kommer att berätta vad begreppet "devops" handlar om.
 
-Andreas har grävt sig ned i begreppsvärlden som sammaför den developer med operations, devops. Men vad innebär termen i mer praktiskt arbete? Vilka arbetsuppgifter omfattas, hur stor är atumatisering av tester och deployment, och kommer docker-liknande tekniker att bli riktigt stort?
+Andreas har grävt sig ned i begreppsvärlden som sammanför den developer med operations, devops. Men vad innebär termen i mer praktiskt arbete? Vilka arbetsuppgifter omfattas, hur stor är atumatisering av tester och deployment, och kommer docker-liknande tekniker att bli riktigt stort?
 
 Andreas är killen som har koll på devops.
 
