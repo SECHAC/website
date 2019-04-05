@@ -112,8 +112,8 @@ Presentatörer äro följande (planering pågår).
 
 | Presentatör       | Typ             | Titel |
 |-------------------|-----------------|-------|
-| Peter Hamfelt     | Pecha kucha     | Erfarenheter av att utveckla en intelligent chattbot. |
-| Andreas Arnesson  | Pecha kucha     | Vad innebär DevOps? |
+| Peter&nbsp;Hamfelt     | Pecha kucha     | Erfarenheter av att utveckla en intelligent chattbot. |
+| Andreas&nbsp;Arnesson  | Pecha kucha     | Vad innebär DevOps? |
 |                   | Pecha kucha     |       |
 |                   | Pecha kucha     |       |
 
