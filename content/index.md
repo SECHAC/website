@@ -158,7 +158,11 @@ Andreas är killen som har koll på DevOps.
 
 [FIGURE src=image/personer/leopold-olsson.jpg?w=c5&h=200&cf caption="Leopold Olsson, Cybercom Group" class="right"]
 
-Leopold Olsson, aka bobbzorzen, har alltid haft en förkärlek till reguljära uttryck och kommer nu hit för att ge oss en genväg in i en underbar värld av ett kraftfullt verktyg som kan se ut så här `/^[Ll]eo(?:pold)?$/`.
+Leopold Olsson, aka bobbzorzen, har alltid haft en förkärlek till reguljära uttryck och kommer nu hit för att ge oss en genväg in i en underbar värld av ett kraftfullt verktyg som kan se ut så här:
+
+```
+/^[Ll]eo(?:pold)?$/
+```
 
 Leo gick ut programmet Webbprogrammering för ett antal år sedan och flyttade till Jönköping för att jobba på Cybercom Group som konsult och software developer. Leo har varvat med olika uppdrag såsom att programmera automatiserade tester till gräsklippare på Huskvarna med uppdrag inom undervisning av Python på Jönköping University.
 
