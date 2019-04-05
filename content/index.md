@@ -126,7 +126,7 @@ Här följer information om föredrag och fördragshållare under pecha kucha se
 
 <div class="clearfix" markdown="1">
 
-[FIGURE src=image/personer/peter-hamfelt.jpg?w=c5&h=200&cf&a=23,45,35,10 caption="Peter Hamfelt, Utvecklare och framtida chef" class="right"]
+[FIGURE src=image/personer/peter-hamfelt.jpg?w=c5&h=200&cf&a=23,45,35,10 caption="Peter Hamfelt, utvecklare och framtida chef" class="right"]
 
 Peter Hamfelt, student på Software Enginnering och allmänt aktiv som ansvarig på KIDS (idrottsföreningen för studenter på BTH) och ledamot i utbildningsföreningen BITS).
 
