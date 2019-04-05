@@ -160,7 +160,7 @@ Planering pågår. Arbetshypotesen är att ha fokus mot positionering och status
 
 [FIGURE src=image/personer/jane-strandberg.jpg?w=c5&h=200&cf caption="Jane Strandberg, Prisjakt" class="right"]
 
-Jane Strandberg, aka Sylvanas, är en välkänd profil på dbwebb, grillcon och BTH. Jag gick ut programmet Webbprogrammering och stannade sedan några år för att undervisa på BTH. Därefter fortsatte Jane till Malmö för att jobba som programmerare på Prisjakt. Efter något år på Prisjakt blev Jane erbjuden en position som chef och teamledare över en grupp av programmerare på Prisjakt.
+Jane Strandberg, aka Sylvanas, är en välkänd profil på dbwebb, grillcon och BTH. Jane gick ut programmet Webbprogrammering och stannade sedan några år för att undervisa på BTH. Därefter fortsatte Jane till Malmö för att jobba som programmerare på Prisjakt. Efter något år på Prisjakt blev Jane erbjuden en position som chef och teamledare över en grupp av programmerare på Prisjakt.
 
 Jane kommer nu hit för att prata om hur det är att vara chef för programmerare och hur det känns att lyftas upp som chef över sina forna kollegor. Låt oss fråga henne om ens syn förändras på verksamheten när man går från programmerare till chef.
 
