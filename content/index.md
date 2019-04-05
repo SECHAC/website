@@ -112,18 +112,38 @@ Presentatörer äro följande (planering pågår).
 
 | Presentatör       | Typ             | Titel |
 |-------------------|-----------------|-------|
-| Peter Hamfelt     | Pecha kucha     |       |
+| Peter Hamfelt     | Pecha kucha     | Erfarenheter av att utveckla en intelligent chattbot. |
 |                   | Pecha kucha     |       |
 |                   | Pecha kucha     |       |
 |                   | Pecha kucha     |       |
+
+
+
+#### Peter om en intelligent chattbott {#10-1}
+
+<div class="clearfix" markdown="1">
+
+[FIGURE src=image/personer/peter-hamfelt.jpg?w=c5&h=200&cf&a=23,45,35,10 caption="Peter Hamfelt, Utvecklare och framtida chef" class="right"]
+
+Peter Hamfelt, student på Software Enginnering och allmänt aktiv som ansvarig på KIDS (idrottsföreningen för studenter på BTH) och ledamot i utbildningsföreningen BITS).
+
+Peter hinner även med sina studier som nu omfattar ett grupprojekt där en intelligent chattklient/chattbot utvecklas för att automatisk besvara frågor likt en kundtjänst.
+
+Peter kommer prata om tekniken och erfarenheter från projektet.
+
+</div>
 
 
 
 ### Kl 11: Regex med Rex {#11}
 
-Leopold Olsson pratar reguljära uttryck under titeln **"Regular expressions - Not as complicated as they seem"**, eller kortare **"Regex med Rex"**.
+[FIGURE src=image/personer/leopold-olsson.jpg?w=c5&h=200&cf caption="Leopold Olsson, Cybercom Group" class="right"]
 
-Här skall jag skriva någon vacker text om bobba, hans arbetstitel, företag och hans föredrag om hur man blir as-kicker på regexp.
+Leopold Olsson, aka bobbzorzen, har alltid haft en förkärlek till reguljära uttryck och kommer nu hit för att ge oss en genväg in i en underbar värld av ett kraftfullt verktyg som kan se ut så här `/^[Ll]eopold$/`.
+
+Leo gick ut programmet Webbprogrammering för et tantal år sedan och flyttade till Jönköping för att jobba på Cybercom Group som konsult och software developer. Leo har varvat med olika uppdrag såsom att programmera intelligens till gräsklippare på Huskvarna med uppdrag inom undervisning av Python på Jönköping University.
+
+Nu är Leo på en allmän konferensresa och besöker oss alltså för att prata om ett av sina stora intressen, reguljära uttryck. Missa inte möjligheten att lära dig regex på en timme, med Rex, som leo också kallas.
 
 
 
@@ -135,9 +155,13 @@ Planering pågår. Arbetshypotesen är att ha fokus mot positionering och status
 
 ### Kl 14: Jane om att vara chef för programmarere {#14}
 
-Här skall jag skriva någon vacker text om Jane, hennes arbetstitel, företag och föredraget om hur det är att vara programmerare och sedan bli chef över sina team-kamrater samt om arbetsrollen som chef över programmerare, förändras synen på verksamheten när man blir chef?
+[FIGURE src=image/personer/jane-strandberg.jpg?w=c5&h=200&cf caption="Jane Strandberg, Prisjakt" class="right"]
 
-Lite tips och trix om hur man manipulerar sin chef kanske, om det går?
+Jane Strandberg, aka Sylvanas, är en välkänd profil på dbwebb, grillcon och BTH. Jag gick ut programmet Webbprogrammering och stannade sedan några år för att undervisa på BTH. Därefter fortsatte Jane till Malmö för att jobba som programmerare på Prisjakt. Efter något år på Prisjakt blev Jane erbjuden en position som chef och teamledare över en grupp av programmerare på Prisjakt.
+
+Jane kommer nu hit för att prata om hur det är att vara chef för programmerare och hur det känns att lyftas upp som chef över sina forna kollegor. Låt oss fråga henne om ens syn förändras på verksamheten när man går från programmerare till chef.
+
+Kanske kan vi få lite tips och trix om hur man manipulerar sin chef kanske, om det går? Eller vad man behöver göra för att få en chefsroll, vilka kvaliteter är det som en chef behöver?
 
 
 
