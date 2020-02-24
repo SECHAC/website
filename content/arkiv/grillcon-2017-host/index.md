@@ -13,7 +13,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2017-host/block/flash
+                route: ./block/flash
 
     share-this:
         region: main
@@ -27,7 +27,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2017-host/block/sidebar-anmalan
+                route: ./block/sidebar-anmalan
 
 ...
 GrillCon 2017 Höst - Hackathon och seminarier
