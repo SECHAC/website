@@ -30,6 +30,10 @@ Länka till information om genomförda GrillCons.
 Pre- GrillCons
 ------------------------
 
+* GrillCon 2019 Höst, var en klassisk grill.
+
+* Anmälan till [GrillCon 2019 Vår](arkiv/grillcon-2019-var)
+
 * Anmälan till [GrillCon 2018 Höst](arkiv/grillcon-2018-host)
 
 * Anmälan till [GrillCon 2018 Vår](arkiv/grillcon-2018-var)

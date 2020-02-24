@@ -7,7 +7,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2020-var/block/flash
+                route: ./block/flash
 
     article-toc:
         region: sidebar-right
@@ -29,21 +29,18 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2020-var/block/sidebar-anmalan
+                route: ./block/sidebar-anmalan
 
 author:
     - mos
 revision:
-    "2020-02-24": (A, mos) Inför GrillCon 2020 vår.
+    "2019-03-27": (A, mos) Inför GrillCon 2019 vår.
 ...
-GrillCon 2020 Vår
+GrillCon 2019 Vår
 ===============================
 
-Vårens GrillCon går av stapeln 15:e maj 2020.
+Vårens GrillCon går av stapeln 16, 17 och 18 maj 2019. 
 
-Vi tar nu emot Call for presentations.
-
-<!--
 Det blir Hackathon-torsdag med kvällsmat på Biobaren, konferens-fredag med klassisk grill och utflykts-lördag med fotoklubben.
 
 [ANMÄL DIG NU!](https://sechat.dbwebb.se/register)
@@ -284,9 +281,6 @@ Parkera vid BTH {#parkera}
 
 Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format.
 
--->
-
-
 
 <!--
 Syfte {#syfte}
@@ -296,7 +290,6 @@ Berätta kort varför vi gör detta, så det blir tydligt.
 -->
 
 
-<!--
 Arrangörer {#arrangorer}
 --------------------------------
 
@@ -323,5 +316,3 @@ PT:are är studenter som vid BTH gått ett utbildningsprogram inom Programvarute
 SE är utbildningsprogrammet "Software Engineering" (och "International Software Engineering").
 
 Web är utbildningsprogrammen "Webbprogrammering 180hp campus" och "Webbprogrammering 120hp distans".
-
--->
