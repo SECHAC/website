@@ -17,11 +17,6 @@ views:
             meta:
                 type: article-toc
 
-    share-this:
-        region: main
-        template: default/share
-        sort: 2
-
     sidebar-anmal:
         region: sidebar-right
         template: default/block

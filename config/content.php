@@ -42,6 +42,7 @@ return [
         "start" => "\n\n\n" . t("Revision history") . " {#revision}\n-------------\n\n<span class=\"revision-history\">\n",
         "end"   => "</span>\n",
         "class" => "revision-history",
+        "source" => "https://github.com/SECHAC/website/tree/master/content",
     ],
 
     // Filter to load content
