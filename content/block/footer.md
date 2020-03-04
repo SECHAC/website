@@ -1,4 +1,4 @@
-Copyright &copy; 2017-2018 Mikael Roos (mos@dbwebb.se)
+Copyright &copy; 2017-2020 Mikael Roos (mos@dbwebb.se)
 
 * [Licens](licens)
 * [Cookies](cookies)
