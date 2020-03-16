@@ -38,6 +38,12 @@ Vårens GrillCon går av stapeln 15:e maj 2020.
 
 Vi tar nu emot Call for presentations.
 
+Så var tanken.
+
+Sen kom Corona och busade med oss och det ser svårt ut med både föreläsare och besökare. Eventuellt blir det en liten grill för de som inte har något annat för sig. Dock skippar vi hackathon, kvällsmat och konferensdel.
+
+//Mikael
+
 <!--
 Det blir Hackathon-torsdag med kvällsmat på Biobaren, konferens-fredag med klassisk grill och utflykts-lördag med fotoklubben.
 
