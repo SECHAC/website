@@ -29,18 +29,23 @@ views:
 author:
     - mos
 revision:
-    "2020-02-24": (A, mos) Inför GrillCon 2020 vår.
+    "2020-04-30": "(B, mos) Vårgrill 2020 inställd, nästa grill hösten 2020."
+    "2020-02-24": "(A, mos) Inför GrillCon 2020 vår."
 ...
 GrillCon 2020 Vår
 ===============================
 
-Vårens GrillCon går av stapeln 15:e maj 2020.
+Vårens GrillCon <s>går</s> _planerades att gå_ av stapeln 15:e maj 2020.
 
-Vi tar nu emot Call for presentations.
+Vi tänkte då ta emot Call for presentations.
 
 Så var tanken.
 
-Sen kom Corona och busade med oss och det ser svårt ut med både föreläsare och besökare. Eventuellt blir det en liten grill för de som inte har något annat för sig. Dock skippar vi hackathon, kvällsmat och konferensdel.
+Sen kom Corona och busade med oss och det ser svårt ut med både föreläsare och besökare. <s>Eventuellt blir det en liten grill för de som inte har något annat för sig.</s> Dock skippar vi hackathon, kvällsmat och konferensdel.
+
+Vi skippar även grillen.
+
+Vi ser fram emot tredje fredagen i september 2020 istället. Klassisk grill. Grill, grill.
 
 //Mikael
 
@@ -317,7 +322,7 @@ BTH är [Blekinge Tekniska Högskola](https://bth.se).
 
 Beteckningen dbwebb representerar den allmänna community som finns kring webbplatsen dbwebb.se och de kurser som där bedrivs.
 
-Lärarteamet kring dbwebb med Kenneth Lewenhagen, Andreas Arnesson, Emil Folino (och mos) är aktiva i allmän planering och genomförande av evenemanget. 
+Lärarteamet kring dbwebb med Kenneth Lewenhagen, Andreas Arnesson, Emil Folino (och mos) är aktiva i allmän planering och genomförande av evenemanget.
 
 PT:are är studenter som vid BTH gått ett utbildningsprogram inom Programvaruteknik, någon gång sedan starten 1990. Här inkluderas bland annat utbildningarna Programvaruteknik, Programvaruingenjör, (International) Software Engineer, Webbprogrammering.
 
