@@ -26,7 +26,7 @@ docker-compose up
 
 The webserver starts at the port defined in the file `docker-compose.yml`, for example port 18081.
 
-Open a web browser to localhost:18081. 
+Open a web browser to localhost:18081.
 
 
 
@@ -134,7 +134,34 @@ $ make update-all
 
 
 
+Setup the production environment
+--------------------------------
+
+This is a sample production environment.
+
+```
+# Get the source to git/dbwebb.se
+git clone git@github.com:SECHAC/website.git grillcon.dbwebb.se
+cd grillcon.dbwebb.se
+composer install
+
+# Setup the mirror at htdoc/grillcon.dbwebb.se
+make site-build
+make local-publish
+
+# Create the virtual host for http
+make virtual-host
+
+# Create the certs
+make ssl-cert-create
+
+# Create the virtual host for https
+make virtual-host-https
+```
+
+
+
 ```                                                            
  .                                                             
-..:  Copyright (c) 2016 Mikael Roos, mos@dbwebb.se   
+..:  Copyright (c) 2016-2021 Mikael Roos, mos@dbwebb.se   
 ```                                                            
