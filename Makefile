@@ -214,8 +214,8 @@ ServerAdmin $(SERVER_ADMIN)
 <VirtualHost *:80>
 	ServerName $${site}
 	ServerAlias local.$${site}
-	ServerAlias do1.$${site}
-	ServerAlias do2.$${site}
+	ServerAlias do3.$${site}
+	ServerAlias do4.$${site}
 	DocumentRoot $(HTDOCS_BASE)/$${site}/htdocs
 
 	<Directory />
@@ -268,8 +268,8 @@ ServerAdmin $(SERVER_ADMIN)
 
 <VirtualHost *:80>
 	ServerName $${site}
-	ServerAlias do1.$${site}
-	ServerAlias do2.$${site}
+	ServerAlias do3.$${site}
+	ServerAlias do4.$${site}
 	Redirect "/" "https://$${site}/"
 </VirtualHost>
 
@@ -280,8 +280,8 @@ ServerAdmin $(SERVER_ADMIN)
 	SSLCertificateChainFile $(SSL_PEM_BASE)/chain.pem
 
 	ServerName $${site}
-	ServerAlias do1.$${site}
-	ServerAlias do2.$${site}
+	ServerAlias do3.$${site}
+	ServerAlias do4.$${site}
 	DocumentRoot $(HTDOCS_BASE)/$${site}/htdocs
 
 	<Directory />
