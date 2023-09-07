@@ -29,7 +29,7 @@ views:
 author:
     - mos
 revision:
-    "2023-09-07": "(C, aar) Inför GrillCon 2023 höst."
+    "2023-09-07": "(C, aar) Inför GrillCon hösten 2023."
     "2020-04-30": "(B, mos) Vårgrill 2020 inställd, nästa grill hösten 2020."
     "2020-02-24": "(A, mos) Inför GrillCon 2020 vår."
 ...
