@@ -7,7 +7,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2020-var/block/flash
+                route: grillcon-2023-host/block/flash
 
     article-toc:
         region: sidebar-right
@@ -24,30 +24,33 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2020-var/block/sidebar-anmalan
+                route: grillcon-2023-host/block/sidebar-anmalan
 
 author:
     - mos
 revision:
+    "2023-09-07": "(C, aar) Inför GrillCon 2023 höst."
     "2020-04-30": "(B, mos) Vårgrill 2020 inställd, nästa grill hösten 2020."
     "2020-02-24": "(A, mos) Inför GrillCon 2020 vår."
 ...
-GrillCon 2020 Vår
+GrillCon 2023 Höst (We are back!)
 ===============================
 
-Vårens GrillCon <s>går</s> _planerades att gå_ av stapeln 15:e maj 2020.
+Corona är officiellt över och lärarlaget har slutat vara (är mindre) lata. Hösten GrillCon går av stapeln 15:e september 2023.
 
-Vi tänkte då ta emot Call for presentations.
+Vi kör en klassisk höstgrill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
-Så var tanken.
+Förhoppningsvis har någon hackat och preppat inför grillspetten. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-Sen kom Corona och busade med oss och det ser svårt ut med både föreläsare och besökare. <s>Eventuellt blir det en liten grill för de som inte har något annat för sig.</s> Dock skippar vi hackathon, kvällsmat och konferensdel.
+Vi samlas 17:00 på Studentviken.
 
-Vi skippar även grillen.
+[ANMÄL DIG NU!](https://goo.gl/f7SQdv)
 
-Vi ser fram emot tredje fredagen i september 2020 istället. Klassisk grill. Grill, grill.
+Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när stormen Knud kom på besök.
 
-//Mikael
+[YOUTUBE src=aGgaR5ryyBM width=730 caption="GrillCon hösten 2018 då stormen knud kom och besökte oss."]
+
+//Andreas och Kenneth
 
 <!--
 Det blir Hackathon-torsdag med kvällsmat på Biobaren, konferens-fredag med klassisk grill och utflykts-lördag med fotoklubben.
