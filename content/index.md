@@ -52,6 +52,22 @@ Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när 
 
 //Andreas och Kenneth
 
+
+Hitta hit {#hitta}
+--------------------------------
+
+Här är vi.
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1UNmeJUpCMmbFy7dAFLzOwzwfFps" width="640" height="480"></iframe>
+
+
+
+Parkera vid BTH {#parkera}
+--------------------------------
+
+Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format.
+
+
 <!--
 Det blir Hackathon-torsdag med kvällsmat på Biobaren, konferens-fredag med klassisk grill och utflykts-lördag med fotoklubben.
 
