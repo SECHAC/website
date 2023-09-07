@@ -36,7 +36,7 @@ revision:
 GrillCon 2023 Höst (We are back!)
 ===============================
 
-Corona är officiellt över och lärarlaget har slutat vara (är mindre) lata. Hösten GrillCon går av stapeln 15:e september 2023.
+Corona är officiellt över och lärarlaget har slutat vara (är mindre) lata. GrillCon höst går av stapeln 15:e september 2023.
 
 Vi kör en klassisk höstgrill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
