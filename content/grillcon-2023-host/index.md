@@ -43,7 +43,7 @@ Corona är officiellt över och lärarlaget har slutat vara (är mindre) lata. H
 
 Vi kör en klassisk höstgrill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
-Förhoppningsvis har någon hackat och preppat inför grillspetten. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
+Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
 Vi samlas 17:00 på Studentviken.
 
