@@ -2,6 +2,8 @@
 
 [ANMÄL DIG NU!](https://docs.google.com/spreadsheets/d/11ZyNsGX7MtKWcHMUdPcFL8HKeKl9R_6UrUczB8MFK2Q/edit#gid=0)
 
+Sista anmälningsdag är torsdag den 14:e.
+
 
 
 #### Arkiv

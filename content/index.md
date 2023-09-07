@@ -44,7 +44,7 @@ Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer 
 
 Vi samlas 17:00 på Studentviken.
 
-[ANMÄL DIG NU!](https://goo.gl/f7SQdv)
+[ANMÄL DIG NU!](https://docs.google.com/spreadsheets/d/11ZyNsGX7MtKWcHMUdPcFL8HKeKl9R_6UrUczB8MFK2Q/edit#gid=0) Sista anmälningsdag är torsdag den 14:e.
 
 Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när stormen Knud kom på besök.
 
