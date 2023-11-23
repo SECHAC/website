@@ -31,6 +31,8 @@ Länka till information om genomförda GrillCons.
 Pre- GrillCons
 ------------------------
 
+* Anmälan till [GrillCon 2023 Höst](arkiv/grillcon-2023-host)
+
 * Anmälan till [GrillCon 2020 Vår](arkiv/grillcon-2020-var)
 
 * Anmälan till [GrillCon 2019 Vår](arkiv/grillcon-2019-var)
