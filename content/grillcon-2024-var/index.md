@@ -39,26 +39,25 @@ revision:
 GrillCon 2024 Vår(Nu är det snart tradition igen)
 ===============================
 
-GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag denna gången med föreläsningar/presentation från studenter/alumni/företag/lärare.
+GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag denna gången med föreläsningar/presentation från studenter/alumni/företag/lärare under dagen. På kvällen blir det en klassisk grill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
+
+Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
+
+[ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är torsdag den 17:e maj.
 
 Vi har börjat samla in intresseanmälningar till föreläsningar och presentation. Anmäl dig redan nu [https://forms.gle/oar3XJCZKA643gsf9](https://forms.gle/oar3XJCZKA643gsf9).
 
 Schema TBA.
 
+
+
+<!-- Vi samlas 17:00 på Studentviken. -->
+
+
 <!-- 
-Vi kör en klassisk höstgrill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
-
-Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
-
-Vi samlas 17:00 på Studentviken.
-
-[ANMÄL DIG NU!](https://docs.google.com/spreadsheets/d/11ZyNsGX7MtKWcHMUdPcFL8HKeKl9R_6UrUczB8MFK2Q/edit#gid=0) Sista anmälningsdag är torsdag den 14:e.
-
 Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när stormen Knud kom på besök.
 
-[YOUTUBE src=aGgaR5ryyBM width=730 caption="GrillCon hösten 2018 då stormen knud kom och besökte oss."]
-
--->
+[YOUTUBE src=aGgaR5ryyBM width=730 caption="GrillCon hösten 2018 då stormen knud kom och besökte oss."] -->
 
 Hitta hit {#hitta}
 --------------------------------
