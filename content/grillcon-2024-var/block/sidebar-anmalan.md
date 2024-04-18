@@ -1,9 +1,7 @@
 #### Anmäl NU!
-Skojja ba! Du får vänta lite
-<!-- 
-[ANMÄL DIG NU!](https://docs.google.com/spreadsheets/d/11ZyNsGX7MtKWcHMUdPcFL8HKeKl9R_6UrUczB8MFK2Q/edit#gid=0)
+[ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) som deltagare.
 
-Sista anmälningsdag är torsdag den 14:e. -->
+Sista anmälningsdag är torsdag den 17:e maj.
 
 
 

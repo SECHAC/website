@@ -39,26 +39,25 @@ revision:
 GrillCon 2024 Vår(Nu är det snart tradition igen)
 ===============================
 
-Vad är detta? Finns det redan information om nästa GrillCon?
-Nej. Men ett datum i alla fall.
-
-GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag denna gången med föreläsningar/presentation från studenter/alumni/företag/lärare.
-
-<!-- Corona är officiellt över och lärarlaget har slutat vara (är mindre) lata. Hösten GrillCon går av stapeln 15:e september 2024.
-
-Vi kör en klassisk höstgrill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
+GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag denna gången med föreläsningar/presentation från studenter/alumni/företag/lärare under dagen. På kvällen blir det en klassisk grill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-Vi samlas 17:00 på Studentviken.
+[ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är torsdag den 17:e maj.
 
-[ANMÄL DIG NU!](https://docs.google.com/spreadsheets/d/11ZyNsGX7MtKWcHMUdPcFL8HKeKl9R_6UrUczB8MFK2Q/edit#gid=0) Sista anmälningsdag är torsdag den 14:e.
+Vi har börjat samla in intresseanmälningar till föreläsningar och presentation. Anmäl dig redan nu [https://forms.gle/oar3XJCZKA643gsf9](https://forms.gle/oar3XJCZKA643gsf9).
+
+Schema TBA.
+
+
+<!--
+Vi samlas 17:00 på Studentviken.
 
 Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när stormen Knud kom på besök.
 
 [YOUTUBE src=aGgaR5ryyBM width=730 caption="GrillCon hösten 2018 då stormen knud kom och besökte oss."]
 
-
+-->
 Hitta hit {#hitta}
 --------------------------------
 
@@ -71,4 +70,4 @@ Här är vi.
 Parkera vid BTH {#parkera}
 --------------------------------
 
-Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format. -->
+Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format.
