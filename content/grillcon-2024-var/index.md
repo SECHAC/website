@@ -39,13 +39,11 @@ revision:
 GrillCon 2024 Vår(Nu är det snart tradition igen)
 ===============================
 
-Vad är detta? Finns det redan information om nästa GrillCon?
-Nej. Men ett datum i alla fall.
-
 GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag denna gången med föreläsningar/presentation från studenter/alumni/företag/lärare.
 
-<!-- Corona är officiellt över och lärarlaget har slutat vara (är mindre) lata. Hösten GrillCon går av stapeln 15:e september 2024.
+Schema TBA.
 
+<!-- 
 Vi kör en klassisk höstgrill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
@@ -58,6 +56,7 @@ Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när 
 
 [YOUTUBE src=aGgaR5ryyBM width=730 caption="GrillCon hösten 2018 då stormen knud kom och besökte oss."]
 
+-->
 
 Hitta hit {#hitta}
 --------------------------------
@@ -71,4 +70,4 @@ Här är vi.
 Parkera vid BTH {#parkera}
 --------------------------------
 
-Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format. -->
+Det är fri parkering men du behöver ett parkeringskort att lägga i framrutan. Du kan hämta parkeringskortet i receptionen, byggnaden som ser ut som en rund badtunna i trä i extra stort format.
