@@ -41,6 +41,8 @@ GrillCon 2024 Vår(Nu är det snart tradition igen)
 
 GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag denna gången med föreläsningar/presentation från studenter/alumni/företag/lärare.
 
+Vi har börjat samla in intresseanmälningar till föreläsningar och presentation. Anmäl dig redan nu [https://forms.gle/oar3XJCZKA643gsf9](https://forms.gle/oar3XJCZKA643gsf9).
+
 Schema TBA.
 
 <!-- 
