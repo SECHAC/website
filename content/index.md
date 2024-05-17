@@ -62,6 +62,9 @@ Samling och uppstart
 10.30 - 10.45 
 “Legacy Limbo” (Knowit)
 
+10.45 - 11.00
+Paus 
+
 11.00 - 11.45 
 “Task management / personlig produktivitet” (Ericsson)
 
@@ -76,6 +79,9 @@ Våra vänner på Knowit bjuder på lunch
 
 14.00 - 14.30 
 “Regular Expressions - Not as complicated as they seem” (Knowit Connectivity)
+
+14.30 - 14.45
+Paus 
 
 14.45 - 15.30 
 “Architectures and the Infamous Silver Bullet” (Outpost24)
