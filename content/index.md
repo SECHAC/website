@@ -48,6 +48,8 @@ Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer 
 
 ## Schema {#schema}
 
+Alla presentationer är i sal **J1640**.
+
 09.00 - 09.15 
 Samling och uppstart
 
