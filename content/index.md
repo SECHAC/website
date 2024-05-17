@@ -56,6 +56,9 @@ Samling och uppstart i J1640 (Längst ner vid Bistron, på väg mot multisalen)
 09.15 - 10.00 
 “Kickstarta din karriär som utvecklare” (Softhouse)
 
+10.00 - 10.15
+paus
+
 10.15 - 10.30 
 “Clean code” (Knowit)
 
@@ -65,7 +68,7 @@ Samling och uppstart i J1640 (Längst ner vid Bistron, på väg mot multisalen)
 11.15 - 12.00 
 “Task management / personlig produktivitet” (Ericsson)
 
-12.00 - 12.45 
+12.00 - 12.55 
 Våra vänner på Knowit bjuder på lunch
 
 13.00 - 13.30 
