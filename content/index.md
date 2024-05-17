@@ -62,7 +62,7 @@ Samling och uppstart
 10.30 - 10.45 
 “Legacy Limbo” (Knowit)
 
-10.45 - 11.00
+10.45 - 11.00 
 Paus 
 
 11.00 - 11.45 
@@ -80,7 +80,7 @@ Våra vänner på Knowit bjuder på lunch
 14.00 - 14.30 
 “Regular Expressions - Not as complicated as they seem” (Knowit Connectivity)
 
-14.30 - 14.45
+14.30 - 14.45 
 Paus 
 
 14.45 - 15.30 
