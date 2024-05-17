@@ -43,11 +43,44 @@ GrillCon 2024 vår edition gå av stapeln den 24:e maj. Vi satsar på en heldag 
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-[ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är torsdag den 17:e maj.
+[ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är fredag den 17:e maj.
 
-Vi har börjat samla in intresseanmälningar till föreläsningar och presentation. Anmäl dig redan nu [https://forms.gle/oar3XJCZKA643gsf9](https://forms.gle/oar3XJCZKA643gsf9).
 
-Schema TBA.
+## Schema {#schema}
+
+09.00 - 09.15 
+Samling och uppstart
+
+09.15 - 10.00 
+“Kickstarta din karriär som utvecklare” (Softhouse)
+
+10.15 - 10.30 
+“Clean code” (Knowit)
+
+10.30 - 10.45 
+“Legacy Limbo” (Knowit)
+
+11.00 - 11.45 
+“Task management / personlig produktivitet” (Ericsson)
+
+12.00 - 12.45 
+Våra vänner på Knowit bjuder på lunch
+
+13.00 - 13.30 
+“Raise The Shieldwall: Grundläggande principer för informationssäkerhet” (Knowit)
+
+13.30 - 14.00 
+“IKEA, more than a möbelföretag” (IKEA/IPEX)
+
+14.00 - 14.30 
+“Regular Expressions - Not as complicated as they seem” (Knowit Connectivity)
+
+14.45 - 15.30 
+“Architectures and the Infamous Silver Bullet” (Outpost24)
+
+17.00 - 
+Grill i Studentviken
+
 
 
 <!--
