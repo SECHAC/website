@@ -51,7 +51,7 @@ Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer 
 Alla presentationer är i sal **J1640**.
 
 09.00 - 09.15 
-Samling och uppstart
+Samling och uppstart i J1640 (Längst ner vid Bistron, på väg mot multisalen)
 
 09.15 - 10.00 
 “Kickstarta din karriär som utvecklare” (Softhouse)
@@ -59,13 +59,10 @@ Samling och uppstart
 10.15 - 10.30 
 “Clean code” (Knowit)
 
-10.30 - 10.45 
+10.45 - 11.15 
 “Legacy Limbo” (Knowit)
 
-10.45 - 11.00 
-Paus 
-
-11.00 - 11.45 
+11.15 - 12.00 
 “Task management / personlig produktivitet” (Ericsson)
 
 12.00 - 12.45 
