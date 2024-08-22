@@ -43,7 +43,7 @@ GrillCon 2024 höst edition gå av stapeln den 20:e september. Vi satsar på kla
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-[ANMÄL DIG NU!](https://forms.gle/n7EGEPkRCsnDahSA7) Sista anmälningsdag är fredag den 20:e september.
+[ANMÄL DIG NU!](https://forms.gle/n7EGEPkRCsnDahSA7) Sista anmälningsdag är fredag den 18:e september.
 
 
 Vi samlas 17:00 på Studentviken.
