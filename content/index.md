@@ -39,7 +39,7 @@ revision:
 GrillCon 2025 Vår(Nu är det snart tradition igen)
 ===============================
 
-GrillCon 2025 vår edition gå av stapeln den 16:e maj. Vi satsar på en heldag denna gången med hackaton anordnat av [Knowit](https://www.knowit.se/kontakt/karlskrona/) under dagen. Knowit bjuder på pizzalunch. På kvällen blir det en klassisk grill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
+GrillCon 2025 vår edition gå av stapeln den 16:e maj. Vi satsar på en heldag denna gången med hackaton anordnat av [Knowit](https://www.knowit.se/kontakt/karlskrona/) under dagen , kl 10-14. Knowit bjuder på pizzalunch. På kvällen blir det en klassisk grill med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
 Mer info om hackatonet kommer inom kort.
 
