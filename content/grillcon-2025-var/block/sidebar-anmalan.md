@@ -1,7 +1,7 @@
 #### Anmäl NU!
 [ANMÄL DIG NU!](https://forms.gle/qo4BeY8muJgJ62dY8) som deltagare.
 
-Sista anmälningsdag är torsdagen den 15:e maj.
+Sista anmälningsdag är onsdagen den 14:e maj.
 
 
 

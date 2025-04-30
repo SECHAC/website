@@ -45,7 +45,7 @@ Mer info om hackatonet kommer inom kort.
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-[ANMÄL DIG NU!](https://forms.gle/qo4BeY8muJgJ62dY8) Sista anmälningsdag är torsdag den 15:e maj.
+[ANMÄL DIG NU!](https://forms.gle/qo4BeY8muJgJ62dY8) Sista anmälningsdag är onsdag den 14:e maj.
 
 
 Schema TBA.
