@@ -7,7 +7,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2025-var/block/flash
+                route: arkiv/grillcon-2025-var/block/flash
 
     article-toc:
         region: sidebar-right
@@ -29,7 +29,7 @@ views:
         data:
             meta:
                 type: content
-                route: grillcon-2025-var/block/sidebar-anmalan
+                route: arkiv/grillcon-2025-var/block/sidebar-anmalan
 
 author:
     - aar

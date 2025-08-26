@@ -7,7 +7,7 @@ views:
         data:
             meta:
                 type: content
-                route: arkiv/grillcon-2024-host/block/flash
+                route: arkiv/grillcon-2025-host/block/flash
 
     article-toc:
         region: sidebar-right
@@ -29,24 +29,24 @@ views:
         data:
             meta:
                 type: content
-                route: arkiv/grillcon-2024-host/block/sidebar-anmalan
+                route: arkiv/grillcon-2025-host/block/sidebar-anmalan
 
 author:
     - aar
 revision:
-    "2024-08-20": (A, aar) Inför GrillCon 2024 höst.
+    "2025-08-26": (A, aar) Inför GrillCon 2025 höst.
 ...
-GrillCon 2024 höst (Nu är det tradition igen!)
+GrillCon 2025 höst
 ===============================
 
-GrillCon 2024 höst edition gå av stapeln den 20:e september. Vi satsar på klassik grill på kvällen med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
+GrillCon 2025 höst edition gå av stapeln den 19:e september. Vi satsar på klassik grill på kvällen med grillat, tipspromenad och WM i kubb, utmana lärarteamet som alltid brukar vinna (man minns det man vill).
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-[ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är fredag den 17:e maj.
+<!-- [ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är fredag den 17:e maj. -->
 
-
-Vi samlas 17:00 på Studentviken.
+Schema presenteras senare.
+<!-- Vi samlas 17:00 på Studentviken. -->
 
 Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när stormen Knud kom på besök.
 
