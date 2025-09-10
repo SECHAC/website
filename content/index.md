@@ -43,7 +43,7 @@ GrillCon 2025 höst edition gå av stapeln den 19:e september. Vi satsar på kla
 
 Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer tur har någon handlat och det finns en grill som vi kan låna och någon som bär den till grillplatsen.
 
-<!-- [ANMÄL DIG NU!](https://forms.gle/WvzA4VP1gVwP3XQG7) Sista anmälningsdag är fredag den 17:e maj. -->
+[ANMÄL DIG NU!](https://forms.gle/XUNZHaf4RrAMqDrd6) Sista anmälningsdag är onsdagen den 17:e september.
 
 Schema presenteras senare.
 <!-- Vi samlas 17:00 på Studentviken. -->

@@ -1,6 +1,6 @@
 #### Anmäl NU!
 Anmälan kommer snart!
-<!-- [ANMÄL DIG NU!](https://forms.gle/n7EGEPkRCsnDahSA7) som deltagare. -->
+[ANMÄL DIG NU!](https://forms.gle/XUNZHaf4RrAMqDrd6) som deltagare.
 
 Sista anmälningsdag är onsdagen den 17:e september.
 
