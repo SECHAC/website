@@ -45,7 +45,14 @@ Förhoppningsvis har någon hackat och preppat inför grillen. Har vi ännu mer 
 
 [ANMÄL DIG NU!](https://forms.gle/XUNZHaf4RrAMqDrd6) Sista anmälningsdag är onsdagen den 17:e september.
 
-Schema presenteras senare.
+Schema
+--------------------------------
+
+kl 13:00 ses vi i H430 och kör Mario Kart turnering.
+
+kl 16:00 börjar vi röra oss mot Studentviken.
+
+kl 17:00 tänder vi grillen.
 <!-- Vi samlas 17:00 på Studentviken. -->
 
 Så här kan det se ut när vi grillar, i vått och torrt. Mest vått 2018 när stormen Knud kom på besök.
